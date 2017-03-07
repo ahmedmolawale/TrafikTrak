@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.trafik.trafiktrak">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".LiveDataScreen"
+            android:label="@string/live_data"
+            android:parentActivityName=".HomeScreen"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HomeScreen" />
+        </activity>
+        <activity
+            android:name=".HourlyTrafik"
+            android:label="@string/hourly_heading"
+            android:parentActivityName=".LiveDataScreen"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".LiveDataScreen" />
+        </activity>
+        <activity
+            android:name=".DailyTrafik"
+            android:label="@string/daily_heading"
+            android:parentActivityName=".LiveDataScreen"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".LiveDataScreen" />
+        </activity>
+        <activity
+            android:name=".WeeklyTrafik"
+            android:label="@string/weekly_heading"
+            android:parentActivityName=".LiveDataScreen"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".LiveDataScreen" />
+        </activity>
+        <activity
+            android:name=".MonthlyTrafik"
+            android:label="@string/monthly_heading"
+            android:parentActivityName=".LiveDataScreen"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".LiveDataScreen" />
+        </activity>
+        <activity
+            android:name=".AnnualTrafik"
+            android:label="@string/annual_heading"
+            android:parentActivityName=".LiveDataScreen"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".LiveDataScreen" />
+        </activity>
+        <activity
+            android:name=".HourlyTrafikAnalysis"
+            android:label="@string/title_activity_hourly_trafik_analysis"
+            android:parentActivityName=".HourlyTrafik"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.trafik.trafiktrak.HourlyTrafik" />
+        </activity>
+        <activity
+            android:name=".DailyTrafikAnalysis"
+            android:label="@string/title_activity_daily_trafik_analysis"
+            android:parentActivityName=".DailyTrafik"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.trafik.trafiktrak.DailyTrafik" />
+        </activity>
+        <activity
+            android:name=".WeeklyTrafikAnalysis"
+            android:label="@string/title_activity_weekly_trafik_analysis"
+            android:parentActivityName=".WeeklyTrafik"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.trafik.trafiktrak.WeeklyTrafik" />
+        </activity>
+        <activity
+            android:name=".MonthlyTrafikAnalysis"
+            android:label=""
+            android:parentActivityName=".MonthlyTrafik"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.trafik.trafiktrak.MonthlyTrafik" />
+        </activity>
+        <activity
+            android:name=".HomeScreen"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AADTEstimator"
+            android:label="@string/title_activity_aadtestimator"
+            android:parentActivityName=".HomeScreen"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.trafik.trafiktrak.HomeScreen" />
+        </activity>
+        <activity
+            android:name=".ESALEstimator"
+            android:label="@string/title_activity_esalestimator"
+            android:parentActivityName=".HomeScreen"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.trafik.trafiktrak.HomeScreen" />
+        </activity>
+        <activity
+            android:name=".EsalEstimatorCategory"
+            android:label="@string/title_activity_esal_estimator_category"
+            android:parentActivityName=".ESALEstimator"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.trafik.trafiktrak.ESALEstimator" />
+        </activity>
+        <activity
+            android:name=".EsalEstimatedResult"
+            android:label="@string/title_activity_esal_estimated_result"
+            android:parentActivityName=".HomeScreen"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.trafik.trafiktrak.HomeScreen" />
+        </activity>
+    </application>
+
+</manifest>

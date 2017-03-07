@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical"
+    android:id="@+id/hourly_screen"
+    tools:context="com.trafik.trafiktrak.HourlyTrafik"
+    >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/available_date"
+        android:id="@+id/textView"
+        android:textColor="@color/black"
+        android:layout_marginTop="49dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/available_date"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/available_date_on_daily"
+        android:textColor="@color/colorPrimary"
+        android:textStyle="italic"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pick_date"
+        android:id="@+id/pick_date_on_daily"
+        android:padding="10dp"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        android:background="@color/colorPrimary"
+        android:layout_marginTop="54dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/selected_date"
+        android:textColor="@color/black"
+        android:id="@+id/selected_date_on_daily"
+        android:layout_marginTop="15dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/view"
+        android:padding="10dp"
+        android:background="@color/colorPrimaryDark"
+        android:id="@+id/view_daily_table"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        android:layout_marginBottom="40dp"
+        android:layout_marginTop="72dp" />
+
+</LinearLayout>

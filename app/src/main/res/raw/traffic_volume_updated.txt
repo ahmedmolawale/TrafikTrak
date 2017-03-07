@@ -1,0 +1,1568 @@
+Vehicle Tag	;	Date	;	Time In	;	Direction	;	Category	;	Location
+1	;	01/08/2016	;	06:00:00	;	Entry	;	Bus	;	Iwo Road
+2	;	01/08/2016	;	06:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+3	;	01/08/2016	;	06:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+4	;	01/08/2016	;	06:45:00	;	Entry	;	Bus	;	Iwo Road
+5	;	01/08/2016	;	07:00:00	;	Exit	;	Bus	;	Iwo Road
+6	;	01/08/2016	;	07:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+7	;	01/08/2016	;	07:30:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+8	;	01/08/2016	;	07:45:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+9	;	01/08/2016	;	08:00:00	;	Entry	;	Bus	;	Iwo Road
+10	;	01/08/2016	;	08:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+11	;	01/08/2016	;	08:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+12	;	01/08/2016	;	08:45:00	;	Exit	;	Bus	;	Iwo Road
+13	;	01/08/2016	;	12:00:00	;	Exit	;	Bus	;	Iwo Road
+14	;	01/08/2016	;	13:15:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+15	;	01/08/2016	;	14:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+16	;	01/08/2016	;	14:45:00	;	Exit	;	Bus 	;	Iwo Road
+17	;	01/08/2016	;	16:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+18	;	02/08/2016	;	02:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+19	;	02/08/2016	;	02:10:00	;	Entry	;	Bus	;	Iwo Road
+20	;	02/08/2016	;	04:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+21	;	02/08/2016	;	05:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+22	;	02/08/2016	;	06:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+23	;	02/08/2016	;	08:15:00	;	Exit	;	Bus	;	Iwo Road
+24	;	02/08/2016	;	09:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+25	;	02/08/2016	;	09:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+26	;	02/08/2016	;	09:30:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+27	;	02/08/2016	;	09:45:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+28	;	02/08/2016	;	11:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+29	;	02/08/2016	;	12:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+30	;	02/08/2016	;	14:15:00	;	Entry	;	Bus	;	Iwo Road
+31	;	02/08/2016	;	14:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+32	;	02/08/2016	;	15:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+33	;	02/08/2016	;	15:15:00	;	Entry	;	Bus	;	Iwo Road
+34	;	02/08/2016	;	15:45:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+35	;	02/08/2016	;	17:00:00	;	Exit	;	Bus	;	Iwo Road
+36	;	02/08/2016	;	17:10:00	;	Exit	;	Passenger Car	;	Iwo Road
+37	;	02/08/2016	;	17:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+38	;	02/08/2016	;	19:00:00	;	Entry	;	Bus	;	Iwo Road
+39	;	02/08/2016	;	19:30:00	;	Entry	;	Bus	;	Iwo Road
+40	;	02/08/2016	;	19:45:00	;	Exit	;	Bus	;	Iwo Road
+41	;	02/08/2016	;	20:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+42	;	02/08/2016	;	20:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+43	;	02/08/2016	;	21:00:00	;	Exit	;	Bus	;	Iwo Road
+44	;	02/08/2016	;	21:15:00	;	Exit	;	Bus	;	Iwo Road
+45	;	02/08/2016	;	22:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+46	;	02/08/2016	;	23:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+47	;	02/08/2016	;	23:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+48	;	03/08/2016	;	05:30:00	;	Entry 	;	2-axle Trailer	;	Iwo Road
+49	;	03/08/2016	;	06:00:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+50	;	03/08/2016	;	06:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+51	;	03/08/2016	;	06:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+52	;	03/08/2016	;	06:45:00	;	Entry	;	Bus	;	Iwo Road
+53	;	03/08/2016	;	07:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+54	;	03/08/2016	;	07:15:00	;	Exit	;	Passenger car	;	Iwo Road
+55	;	03/08/2016	;	07:30:00	;	Exit	;	Bus	;	Iwo Road
+56	;	03/08/2016	;	07:45:00	;	Exit	;	Bus	;	Iwo Road
+57	;	03/08/2016	;	08:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+58	;	03/08/2016	;	08:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+59	;	03/08/2016	;	08:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+60	;	03/08/2016	;	08:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+61	;	03/08/2016	;	12:00:00	;	Entry	;	Bus	;	Iwo Road
+62	;	03/08/2016	;	13:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+63	;	03/08/2016	;	14:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+64	;	03/08/2016	;	14:45:00	;	Exit	;	Bus	;	Iwo Road
+65	;	03/08/2016	;	16:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+66	;	03/08/2016	;	16:10:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+67	;	03/08/2016	;	16:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+68	;	03/08/2016	;	17:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+69	;	03/08/2016	;	17:10:00	;	Exit	;	Bus	;	Iwo Road
+70	;	03/08/2016	;	17:45:00	;	Entry	;	Bus	;	Iwo Road
+71	;	03/08/2016	;	17:50:00	;	Entry	;	Passenger Car	;	Iwo Road
+72	;	03/08/2016	;	18:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+73	;	03/08/2016	;	18:30:00	;	Exit	;	Bus	;	Iwo Road
+74	;	03/08/2016	;	18:45:00	;	Exit	;	Bus	;	Iwo Road
+75	;	03/08/2016	;	19:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+76	;	03/08/2016	;	19:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+77	;	03/08/2016	;	20:00:00	;	Entry	;	Bus	;	Iwo Road
+78	;	03/08/2016	;	20:30:00	;	Entry	;	Bus	;	Iwo Road
+79	;	03/08/2016	;	21:00:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+80	;	03/08/2016	;	21:15:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+81	;	03/08/2016	;	22:30:00	;	Exit	;	Bus	;	Iwo Road
+82	;	03/08/2016	;	23:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+83	;	03/08/2016	;	23:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+84	;	04/08/2016	;	07:00:00	;	Entry	;	Bus	;	Iwo Road
+85	;	04/08/2016	;	07:05:00	;	Entry	;	Bus	;	Iwo Road
+86	;	04/08/2016	;	07:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+87	;	04/08/2016	;	07:50:00	;	Exit	;	Passenger Car	;	Iwo Road
+88	;	04/08/2016	;	08:00:00	;	Entry	;	Bus	;	Iwo Road
+89	;	04/08/2016	;	08:15:00	;	Entry	;	Bus	;	Iwo Road
+90	;	04/08/2016	;	08:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+91	;	04/08/2016	;	08:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+92	;	04/08/2016	;	09:00:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+93	;	04/08/2016	;	09:45:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+94	;	04/08/2016	;	11:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+95	;	04/08/2016	;	11:15:00	;	Entry 	;	Passenger Car	;	Iwo Road
+96	;	04/08/2016	;	12:00:45	;	Exit	;	Bus	;	Iwo Road
+97	;	04/08/2016	;	13:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+98	;	04/08/2016	;	14:00:30	;	Entry	;	Passenger Car	;	Iwo Road
+99	;	04/08/2016	;	14:30:00	;	Entry	;	Bus	;	Iwo Road
+100	;	04/08/2016	;	14:45:00	;	Exit	;	Bus	;	Iwo Road
+101	;	04/08/2016	;	15:11:10	;	Exit	;	Passenger Car	;	Iwo Road
+102	;	04/08/2016	;	15:20:00	;	Entry	;	Passenger Car	;	Iwo Road
+103	;	04/08/2016	;	15:22:00	;	Entry	;	Bus 	;	Iwo Road
+104	;	04/08/2016	;	15:30:00	;	Entry	;	Bus 	;	Iwo Road
+105	;	04/08/2016	;	15:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+106	;	04/08/2016	;	16:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+107	;	04/08/2016	;	16:05:00	;	Entry	;	Bus	;	Iwo Road
+108	;	04/08/2016	;	16:55:00	;	Entry	;	Bus	;	Iwo Road
+109	;	04/08/2016	;	17:10:00	;	Entry	;	Passenger Car	;	Iwo Road
+110	;	04/08/2016	;	17:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+111	;	04/08/2016	;	17:50:00	;	Exit	;	Passenger Car	;	Iwo Road
+112	;	04/08/2016	;	18:15:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+113	;	04/08/2016	;	18:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+114	;	04/08/2016	;	18:45:00	;	Entry	;	Bus	;	Iwo Road
+115	;	04/08/2016	;	19:00:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+116	;	04/08/2016	;	19:30:00	;	Exit	;	Bus	;	Iwo Road
+117	;	04/08/2016	;	20:00:00	;	Entry	;	Bus	;	Iwo Road
+118	;	04/08/2016	;	20:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+119	;	04/08/2016	;	21:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+120	;	04/08/2016	;	21:15:00	;	Entry	;	Bus	;	Iwo Road
+121	;	04/08/2016	;	22:30:00	;	Exit	;	Bus	;	Iwo Road
+122	;	04/08/2016	;	23:15:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+123	;	04/08/2016	;	23:30:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+124	;	05/08/2016	;	06:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+125	;	05/08/2016	;	06:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+126	;	05/08/2016	;	06:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+127	;	05/08/2016	;	06:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+128	;	05/08/2016	;	07:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+129	;	05/08/2016	;	07:15:00	;	Exit	;	Bus	;	Iwo Road
+130	;	05/08/2016	;	07:30:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+131	;	05/08/2016	;	07:45:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+132	;	05/08/2016	;	08:00:00	;	Exit	;	Bus	;	Iwo Road
+133	;	05/08/2016	;	08:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+134	;	05/08/2016	;	08:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+135	;	05/08/2016	;	08:45:00	;	Entry	;	Bus	;	Iwo Road
+136	;	05/08/2016	;	12:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+137	;	05/08/2016	;	12:00:45	;	Exit	;	Passenger Car	;	Iwo Road
+138	;	05/08/2016	;	13:15:00	;	Exit	;	Bus	;	Iwo Road
+139	;	05/08/2016	;	14:00:30	;	Entry	;	Bus	;	Iwo Road
+140	;	05/08/2016	;	14:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+141	;	05/08/2016	;	14:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+142	;	05/08/2016	;	15:11:10	;	Entry	;	2-axle Trailer	;	Iwo Road
+143	;	05/08/2016	;	15:20:00	;	Entry	;	Bus	;	Iwo Road
+144	;	05/08/2016	;	15:22:00	;	Exit	;	Bus	;	Iwo Road
+145	;	05/08/2016	;	15:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+146	;	05/08/2016	;	15:45:00	;	Exit	;	Bus	;	Iwo Road
+147	;	05/08/2016	;	16:00:00	;	Entry	;	Bus	;	Iwo Road
+148	;	05/08/2016	;	16:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+149	;	05/08/2016	;	17:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+150	;	05/08/2016	;	17:10:00	;	Entry	;	Bus	;	Iwo Road
+151	;	05/08/2016	;	17:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+152	;	05/08/2016	;	17:50:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+153	;	05/08/2016	;	18:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+154	;	05/08/2016	;	18:30:00	;	Entry	;	Bus	;	Iwo Road
+155	;	05/08/2016	;	18:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+156	;	05/08/2016	;	19:00:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+157	;	05/08/2016	;	19:30:00	;	Entry	;	Bus	;	Iwo Road
+158	;	05/08/2016	;	20:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+159	;	05/08/2016	;	22:30:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+160	;	05/08/2016	;	23:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+161	;	06/08/2016	;	00:15:15	;	Entry 	;	Passenger Car	;	Iwo Road
+162	;	06/08/2016	;	00:42:08	;	Entry	;	Passenger Car	;	Iwo Road
+163	;	06/08/2016	;	00:45:34	;	Entry 	;	Bus	;	Iwo Road
+164	;	06/08/2016	;	00:52:45	;	Exit	;	Bus	;	Iwo Road
+165	;	06/08/2016	;	03:05:15	;	Entry	;	Passenger Car	;	Iwo Road
+166	;	06/08/2016	;	04:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+167	;	06/08/2016	;	05:35:00	;	Entry	;	Passenger Car	;	Iwo Road
+168	;	06/08/2016	;	06:00:00	;	Entry 	;	Passenger Car	;	Iwo Road
+169	;	06/08/2016	;	06:15:00	;	Exit	;	Bus	;	Iwo Road
+170	;	06/08/2016	;	06:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+171	;	06/08/2016	;	06:45:00	;	Exit	;	Bus	;	Iwo Road
+172	;	06/08/2016	;	07:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+173	;	06/08/2016	;	07:15:00	;	Entry	;	Bus	;	Iwo Road
+174	;	06/08/2016	;	07:30:00	;	Entry 	;	Bus	;	Iwo Road
+175	;	06/08/2016	;	07:45:00	;	Entry 	;	Passenger Car	;	Iwo Road
+176	;	06/08/2016	;	08:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+177	;	06/08/2016	;	08:15:00	;	Entry 	;	2-axle Trailer	;	Iwo Road
+178	;	06/08/2016	;	08:30:00	;	Entry 	;	Passenger Car	;	Iwo Road
+179	;	06/08/2016	;	08:45:00	;	Exit	;	Bus	;	Iwo Road
+180	;	06/08/2016	;	09:00:00	;	Exit	;	Passenger Car 	;	Iwo Road
+181	;	06/08/2016	;	09:15:00	;	Entry	;	Bus 	;	Iwo Road
+182	;	06/08/2016	;	09:30:00	;	Entry	;	Bus	;	Iwo Road
+183	;	06/08/2016	;	09:45:00	;	Exit	;	Passenger Car 	;	Iwo Road
+184	;	06/08/2016	;	16:00:00	;	Entry	;	Bus 	;	Iwo Road
+185	;	06/08/2016	;	16:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+186	;	06/08/2016	;	16:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+187	;	06/08/2016	;	16:45:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+188	;	06/08/2016	;	17:00:00	;	Entry	;	Bus	;	Iwo Road
+189	;	06/08/2016	;	17:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+190	;	06/08/2016	;	17:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+191	;	06/08/2016	;	17:45:00	;	Exit	;	Bus	;	Iwo Road
+192	;	06/08/2016	;	18:00:00	;	Exit	;	Bus	;	Iwo Road
+193	;	06/08/2016	;	18:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+194	;	06/08/2016	;	18:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+195	;	06/08/2016	;	18:45:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+196	;	06/08/2016	;	19:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+197	;	06/08/2016	;	19:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+198	;	06/08/2016	;	19:30:00	;	Exit	;	Bus	;	Iwo Road
+199	;	06/08/2016	;	19:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+200	;	06/08/2016	;	20:00:00	;	Exit 	;	2-axle Trailer	;	Iwo Road
+201	;	06/08/2016	;	20:30:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+202	;	06/08/2016	;	21:00:00	;	Exit 	;	Bus	;	Iwo Road
+203	;	06/08/2016	;	21:15:00	;	Entry	;	Bus	;	Iwo Road
+204	;	06/08/2016	;	22:30:00	;	Entry 	;	Passenger Car	;	Iwo Road
+205	;	06/08/2016	;	23:15:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+206	;	06/08/2016	;	23:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+207	;	07/08/2016	;	03:10:00	;	Exit	;	Bus	;	Iwo Road
+208	;	07/08/2016	;	03:25:10	;	Exit	;	Bus	;	Iwo Road
+209	;	07/08/2016	;	03:12:58	;	Exit	;	2-axle Trailer	;	Iwo Road
+210	;	07/08/2016	;	04:10:15	;	Exit	;	Bus	;	Iwo Road
+211	;	07/08/2016	;	05:09:36	;	Entry	;	Passenger Car	;	Iwo Road
+212	;	07/08/2016	;	06:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+213	;	07/08/2016	;	08:15:00	;	Entry	;	Bus	;	Iwo Road
+214	;	07/08/2016	;	09:00:00	;	Entry	;	Bus	;	Iwo Road
+215	;	07/08/2016	;	09:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+216	;	07/08/2016	;	09:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+217	;	07/08/2016	;	09:45:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+218	;	07/08/2016	;	11:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+219	;	07/08/2016	;	12:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+220	;	07/08/2016	;	14:15:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+221	;	07/08/2016	;	14:30:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+222	;	07/08/2016	;	15:34:12	;	Entry	;	Bus 	;	Iwo Road
+223	;	07/08/2016	;	16:54:11	;	Exit	;	Passenger Car	;	Iwo Road
+224	;	07/08/2016	;	16:57:13	;	Entry	;	Bus 	;	Iwo Road
+225	;	07/08/2016	;	16:59:00	;	Entry	;	Passenger Car	;	Iwo Road
+226	;	07/08/2016	;	17:15:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+227	;	07/08/2016	;	17:30:00	;	Entry	;	Bus	;	Iwo Road
+228	;	07/08/2016	;	17:45:00	;	Exit	;	Bus	;	Iwo Road
+229	;	07/08/2016	;	18:00:00	;	Exit	;	Bus	;	Iwo Road
+230	;	07/08/2016	;	18:15:00	;	Entry	;	Bus	;	Iwo Road
+231	;	07/08/2016	;	19:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+232	;	07/08/2016	;	19:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+233	;	07/08/2016	;	19:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+234	;	07/08/2016	;	19:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+235	;	07/08/2016	;	19:48:12	;	Exit	;	Passenger Car	;	Iwo Road
+236	;	07/08/2016	;	19:55:45	;	Exit	;	Bus	;	Iwo Road
+237	;	07/08/2016	;	19:57:00	;	Entry	;	Bus	;	Iwo Road
+238	;	07/08/2016	;	20:10:15	;	Entry	;	Passenger Car	;	Iwo Road
+239	;	07/08/2016	;	20:12:23	;	Exit	;	Passenger Car	;	Iwo Road
+240	;	07/08/2016	;	22:14:19	;	Exit	;	Passenger Car	;	Iwo Road
+241	;	07/08/2016	;	22:22:22	;	Exit	;	Bus	;	Iwo Road
+242	;	07/08/2016	;	22:30:00	;	Exit	;	Bus 	;	Iwo Road
+243	;	07/08/2016	;	23:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+244	;	07/08/2016	;	23:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+245	;	07/08/2016	;	23:58:59	;	Entry	;	Bus 	;	Iwo Road
+246	;	07/08/2016	;	23:59:59	;	Exit	;	Passenger Car	;	Iwo Road
+247	;	08/08/2016	;	04:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+248	;	08/08/2016	;	05:20:12	;	Entry	;	Bus	;	Iwo Road
+249	;	08/08/2016	;	06:00:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+250	;	08/08/2016	;	06:15:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+251	;	08/08/2016	;	06:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+252	;	08/08/2016	;	06:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+253	;	08/08/2016	;	07:00:00	;	Exit	;	Bus	;	Iwo Road
+254	;	08/08/2016	;	07:15:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+255	;	08/08/2016	;	07:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+256	;	08/08/2016	;	07:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+257	;	08/08/2016	;	08:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+258	;	08/08/2016	;	08:15:00	;	Entry	;	Bus	;	Iwo Road
+259	;	08/08/2016	;	08:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+260	;	08/08/2016	;	08:45:00	;	Entry	;	Bus	;	Iwo Road
+261	;	08/08/2016	;	09:00:00	;	Entry	;	Bus 	;	Iwo Road
+262	;	08/08/2016	;	09:15:00	;	Exit	;	Bus	;	Iwo Road
+263	;	08/08/2016	;	09:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+264	;	08/08/2016	;	09:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+265	;	08/08/2016	;	10:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+266	;	08/08/2016	;	10:30:00	;	Entry	;	Bus	;	Iwo Road
+267	;	08/08/2016	;	10:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+268	;	08/08/2016	;	11:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+269	;	08/08/2016	;	11:15:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+270	;	08/08/2016	;	11:30:00	;	Exit	;	Bus	;	Iwo Road
+271	;	08/08/2016	;	11:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+272	;	08/08/2016	;	12:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+273	;	08/08/2016	;	12:15:00	;	Exit	;	Bus	;	Iwo Road
+274	;	08/08/2016	;	12:30:00	;	Exit	;	Bus	;	Iwo Road
+275	;	08/08/2016	;	12:45:00	;	Entry	;	Bus	;	Iwo Road
+276	;	08/08/2016	;	13:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+277	;	08/08/2016	;	13:15:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+278	;	08/08/2016	;	13:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+279	;	08/08/2016	;	13:45:00	;	Entry	;	Bus	;	Iwo Road
+280	;	08/08/2016	;	14:00:00	;	Entry	;	Bus	;	Iwo Road
+281	;	08/08/2016	;	14:15:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+282	;	08/08/2016	;	14:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+283	;	08/08/2016	;	14:45:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+284	;	08/08/2016	;	15:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+285	;	08/08/2016	;	15:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+286	;	08/08/2016	;	15:30:00	;	Exit	;	Bus	;	Iwo Road
+287	;	08/08/2016	;	15:45:00	;	Entry	;	Bus	;	Iwo Road
+288	;	08/08/2016	;	16:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+289	;	08/08/2016	;	16:15:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+290	;	08/08/2016	;	16:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+291	;	08/08/2016	;	16:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+292	;	08/08/2016	;	17:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+293	;	08/08/2016	;	17:15:00	;	Entry	;	Bus	;	Iwo Road
+294	;	08/08/2016	;	17:30:00	;	Exit	;	Bus	;	Iwo Road
+295	;	08/08/2016	;	17:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+296	;	08/08/2016	;	18:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+297	;	08/08/2016	;	18:15:00	;	Entry	;	Bus	;	Iwo Road
+298	;	08/08/2016	;	18:30:00	;	Entry	;	Bus 	;	Iwo Road
+299	;	08/08/2016	;	18:45:00	;	Exit	;	2-axle Trailer 	;	Iwo Road
+300	;	08/08/2016	;	19:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+301	;	08/08/2016	;	19:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+302	;	08/08/2016	;	19:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+303	;	08/08/2016	;	19:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+304	;	08/08/2016	;	20:00:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+305	;	08/08/2016	;	20:15:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+306	;	08/08/2016	;	20:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+307	;	08/08/2016	;	20:45:00	;	Exit	;	Bus	;	Iwo Road
+308	;	08/08/2016	;	21:00:00	;	Exit	;	Bus	;	Iwo Road
+309	;	08/08/2016	;	21:15:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+310	;	08/08/2016	;	21:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+311	;	08/08/2016	;	21:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+312	;	08/08/2016	;	22:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+313	;	08/08/2016	;	22:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+314	;	08/08/2016	;	22:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+315	;	08/08/2016	;	22:45:00	;	Entry	;	Bus	;	Iwo Road
+316	;	08/08/2016	;	23:00:00	;	Entry	;	Bus	;	Iwo Road
+317	;	08/08/2016	;	23:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+318	;	08/08/2016	;	23:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+319	;	08/08/2016	;	23:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+320	;	09/08/2016	;	00:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+321	;	09/08/2016	;	01:15:12	;	Entry	;	Passenger Car	;	Iwo Road
+322	;	09/08/2016	;	01:34:54	;	Entry 	;	Passenger Car	;	Iwo Road
+323	;	09/08/2016	;	01:43:23	;	Entry 	;	Passenger Car	;	Iwo Road
+324	;	09/08/2016	;	01:56:11	;	Entry	;	Bus 	;	Iwo Road
+325	;	09/08/2016	;	01:57:21	;	Exit 	;	Passenger Car	;	Iwo Road
+326	;	09/08/2016	;	04:30:00	;	Entry 	;	Bus	;	Iwo Road
+327	;	09/08/2016	;	04:45:00	;	Entry	;	Bus	;	Iwo Road
+328	;	09/08/2016	;	05:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+329	;	09/08/2016	;	05:15:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+330	;	09/08/2016	;	05:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+331	;	09/08/2016	;	05:32:12	;	Entry	;	Passenger Car	;	Iwo Road
+332	;	09/08/2016	;	05:39:32	;	Entry	;	Passenger Car	;	Iwo Road
+333	;	09/08/2016	;	06:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+334	;	09/08/2016	;	06:15:00	;	Entry	;	2-axle Trailer 	;	Iwo Road
+335	;	09/08/2016	;	06:30:00	;	Entry	;	Bus	;	Iwo Road
+336	;	09/08/2016	;	06:45:00	;	Entry	;	Bus	;	Iwo Road
+337	;	09/08/2016	;	07:00:00	;	Entry	;	Bus	;	Iwo Road
+338	;	09/08/2016	;	07:15:00	;	Entry	;	Bus	;	Iwo Road
+339	;	09/08/2016	;	07:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+340	;	09/08/2016	;	07:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+341	;	09/08/2016	;	07:55:34	;	Entry	;	Bus	;	Iwo Road
+342	;	09/08/2016	;	07:58:54	;	Exit	;	Bus	;	Iwo Road
+343	;	09/08/2016	;	08:00:00	;	Exit 	;	2-axle Trailer	;	Iwo Road
+344	;	09/08/2016	;	08:15:00	;	Exit	;	2-axle Trailer 	;	Iwo Road
+345	;	09/08/2016	;	08:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+346	;	09/08/2016	;	08:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+347	;	09/08/2016	;	09:00:00	;	Exit 	;	Passenger Car	;	Iwo Road
+348	;	09/08/2016	;	09:15:00	;	Exit	;	Bus	;	Iwo Road
+349	;	09/08/2016	;	09:30:00	;	Entry	;	Bus	;	Iwo Road
+350	;	09/08/2016	;	09:45:00	;	Exit	;	3-axle Trailer 	;	Iwo Road
+351	;	09/08/2016	;	10:00:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+352	;	09/08/2016	;	10:15:00	;	Exit	;	Passenger Car 	;	Iwo Road
+353	;	09/08/2016	;	10:30:00	;	Entry	;	Bus	;	Iwo Road
+354	;	09/08/2016	;	10:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+355	;	09/08/2016	;	11:00:00	;	Entry	;	Bus	;	Iwo Road
+356	;	09/08/2016	;	12:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+357	;	09/08/2016	;	12:56:12	;	Exit	;	Passenger Car	;	Iwo Road
+358	;	09/08/2016	;	12:58:58	;	Exit	;	Bus	;	Iwo Road
+359	;	09/08/2016	;	13:30:00	;	Exit	;	Bus	;	Iwo Road
+360	;	09/08/2016	;	13:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+361	;	09/08/2016	;	14:00:00	;	Entry	;	Bus	;	Iwo Road
+362	;	09/08/2016	;	14:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+363	;	09/08/2016	;	14:30:00	;	Exit	;	Bus	;	Iwo Road
+364	;	09/08/2016	;	14:44:00	;	Entry	;	2-axle Trailer 	;	Iwo Road
+365	;	09/08/2016	;	15:45:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+366	;	09/08/2016	;	16:00:00	;	Exit	;	Passenger Car 	;	Iwo Road
+367	;	09/08/2016	;	16:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+368	;	09/08/2016	;	16:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+369	;	09/08/2016	;	16:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+370	;	09/08/2016	;	17:00:00	;	Exit	;	2-axle Trailer 	;	Iwo Road
+371	;	09/08/2016	;	17:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+372	;	09/08/2016	;	17:30:00	;	Exit	;	Bus	;	Iwo Road
+373	;	09/08/2016	;	17:45:00	;	Exit	;	Bus	;	Iwo Road
+374	;	09/08/2016	;	18:15:13	;	Entry	;	Passenger Car	;	Iwo Road
+375	;	09/08/2016	;	18:45:22	;	Entry	;	Passenger Car	;	Iwo Road
+376	;	09/08/2016	;	18:55:21	;	Entry	;	2-axle Trailer	;	Iwo Road
+377	;	09/08/2016	;	19:30:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+378	;	09/08/2016	;	19:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+379	;	09/08/2016	;	20:00:00	;	Entry	;	Bus	;	Iwo Road
+380	;	09/08/2016	;	20:15:00	;	Entry	;	Bus	;	Iwo Road
+381	;	09/08/2016	;	20:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+382	;	09/08/2016	;	20:45:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+383	;	09/08/2016	;	21:00:00	;	Entry	;	Bus	;	Iwo Road
+384	;	09/08/2016	;	21:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+385	;	09/08/2016	;	21:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+386	;	09/08/2016	;	21:45:00	;	Entry	;	Bus	;	Iwo Road
+387	;	09/08/2016	;	22:00:00	;	Entry	;	Bus	;	Iwo Road
+388	;	09/08/2016	;	22:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+389	;	09/08/2016	;	22:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+390	;	09/08/2016	;	22:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+391	;	09/08/2016	;	23:00:00	;	Exit	;	Bus	;	Iwo Road
+392	;	09/08/2016	;	23:15:00	;	Exit	;	Bus	;	Iwo Road
+393	;	09/08/2016	;	23:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+394	;	09/08/2016	;	23:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+395	;	10/08/2016	;	02:07:45	;	Entry	;	Bus	;	Iwo Road
+396	;	10/08/2016	;	03:06:56	;	Entry	;	Passenger Car	;	Iwo Road
+397	;	10/08/2016	;	03:12:45	;	Entry	;	Passenger Car	;	Iwo Road
+398	;	10/08/2016	;	04:10:45	;	Entry	;	Bus	;	Iwo Road
+399	;	10/08/2016	;	05:45:00	;	Entry	;	Bus	;	Iwo Road
+400	;	10/08/2016	;	06:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+401	;	10/08/2016	;	06:15:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+402	;	10/08/2016	;	06:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+403	;	10/08/2016	;	06:45:00	;	Entry	;	Bus	;	Iwo Road
+404	;	10/08/2016	;	07:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+405	;	10/08/2016	;	07:19:44	;	Exit	;	Passenger Car	;	Iwo Road
+406	;	10/08/2016	;	07:59:00	;	Exit	;	Bus	;	Iwo Road
+407	;	10/08/2016	;	08:45:00	;	Entry	;	Bus	;	Iwo Road
+408	;	10/08/2016	;	09:00:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+409	;	10/08/2016	;	09:15:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+410	;	10/08/2016	;	09:30:00	;	Exit	;	Bus 	;	Iwo Road
+411	;	10/08/2016	;	09:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+412	;	10/08/2016	;	10:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+413	;	10/08/2016	;	10:15:00	;	Exit	;	Bus	;	Iwo Road
+414	;	10/08/2016	;	10:30:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+415	;	10/08/2016	;	10:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+416	;	10/08/2016	;	11:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+417	;	10/08/2016	;	12:15:00	;	Exit	;	Bus	;	Iwo Road
+418	;	10/08/2016	;	12:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+419	;	10/08/2016	;	12:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+420	;	10/08/2016	;	13:00:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+421	;	10/08/2016	;	13:15:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+422	;	10/08/2016	;	13:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+423	;	10/08/2016	;	13:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+424	;	10/08/2016	;	14:00:00	;	Entry	;	Bus	;	Iwo Road
+425	;	10/08/2016	;	14:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+426	;	10/08/2016	;	14:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+427	;	10/08/2016	;	14:45:00	;	Entry	;	Bus	;	Iwo Road
+428	;	10/08/2016	;	14:56:43	;	Entry	;	2-axle Trailer	;	Iwo Road
+429	;	10/08/2016	;	15:32:34	;	Entry	;	Bus	;	Iwo Road
+430	;	10/08/2016	;	15:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+431	;	10/08/2016	;	16:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+432	;	10/08/2016	;	16:15:00	;	Entry	;	Bus	;	Iwo Road
+433	;	10/08/2016	;	16:30:00	;	Exit	;	Bus	;	Iwo Road
+434	;	10/08/2016	;	16:45:00	;	Exit	;	Bus	;	Iwo Road
+435	;	10/08/2016	;	17:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+436	;	10/08/2016	;	19:02:21	;	Entry	;	Passenger Car	;	Iwo Road
+437	;	10/08/2016	;	19:22:45	;	Exit	;	Bus	;	Iwo Road
+438	;	10/08/2016	;	19:54:12	;	Exit	;	Bus	;	Iwo Road
+439	;	10/08/2016	;	19:58:12	;	Exit	;	Passenger Car	;	Iwo Road
+440	;	10/08/2016	;	19:59:00	;	Entry	;	Passenger Car	;	Iwo Road
+441	;	10/08/2016	;	20:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+442	;	10/08/2016	;	20:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+443	;	10/08/2016	;	20:45:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+444	;	10/08/2016	;	21:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+445	;	10/08/2016	;	21:15:00	;	Exit	;	Bus	;	Iwo Road
+446	;	10/08/2016	;	21:30:00	;	Entry	;	Passenger Car 	;	Iwo Road
+447	;	10/08/2016	;	21:45:00	;	Entry	;	Bus 	;	Iwo Road
+448	;	10/08/2016	;	22:00:00	;	Entry	;	Bus	;	Iwo Road
+449	;	10/08/2016	;	22:15:00	;	Entry	;	Passenger Car 	;	Iwo Road
+450	;	11/08/2016	;	01:15:51	;	Exit	;	Bus 	;	Iwo Road
+451	;	11/08/2016	;	02:32:45	;	Exit	;	Passenger Car	;	Iwo Road
+452	;	11/08/2016	;	04:14:56	;	Entry	;	Passenger Car	;	Iwo Road
+453	;	11/08/2016	;	04:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+454	;	11/08/2016	;	04:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+455	;	11/08/2016	;	04:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+456	;	11/08/2016	;	05:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+457	;	11/08/2016	;	05:15:00	;	Entry	;	Bus 	;	Iwo Road
+458	;	11/08/2016	;	05:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+459	;	11/08/2016	;	05:45:00	;	Exit	;	Bus	;	Iwo Road
+460	;	11/08/2016	;	06:00:00	;	Entry	;	Bus	;	Iwo Road
+461	;	11/08/2016	;	06:15:00	;	Entry	;	Bus	;	Iwo Road
+462	;	11/08/2016	;	06:17:32	;	Entry	;	Passenger Car	;	Iwo Road
+463	;	11/08/2016	;	06:22:45	;	Entry	;	Bus	;	Iwo Road
+464	;	11/08/2016	;	07:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+465	;	11/08/2016	;	07:30:00	;	Entry	;	Bus	;	Iwo Road
+466	;	11/08/2016	;	07:45:00	;	Entry	;	Bus	;	Iwo Road
+467	;	11/08/2016	;	08:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+468	;	11/08/2016	;	08:15:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+469	;	11/08/2016	;	08:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+470	;	11/08/2016	;	08:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+471	;	11/08/2016	;	09:00:00	;	Entry	;	Bus	;	Iwo Road
+472	;	11/08/2016	;	09:15:00	;	Entry	;	Passenger Car 	;	Iwo Road
+473	;	11/08/2016	;	09:30:00	;	Entry	;	Bus 	;	Iwo Road
+474	;	11/08/2016	;	09:45:00	;	Entry	;	Bus	;	Iwo Road
+475	;	11/08/2016	;	10:00:00	;	Entry	;	Passenger Car 	;	Iwo Road
+476	;	11/08/2016	;	10:10:10	;	Entry	;	Bus 	;	Iwo Road
+477	;	11/08/2016	;	11:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+478	;	11/08/2016	;	11:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+479	;	11/08/2016	;	11:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+480	;	11/08/2016	;	12:00:00	;	Exit	;	Bus	;	Iwo Road
+481	;	11/08/2016	;	12:14:52	;	Entry	;	Passenger Car	;	Iwo Road
+482	;	11/08/2016	;	12:45:56	;	Exit	;	Passenger Car	;	Iwo Road
+483	;	11/08/2016	;	13:30:00	;	Entry	;	Bus	;	Iwo Road
+484	;	11/08/2016	;	13:45:00	;	Entry	;	Bus	;	Iwo Road
+485	;	11/08/2016	;	14:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+486	;	11/08/2016	;	14:15:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+487	;	11/08/2016	;	14:30:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+488	;	11/08/2016	;	14:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+489	;	11/08/2016	;	15:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+490	;	11/08/2016	;	15:15:00	;	Entry	;	Bus	;	Iwo Road
+491	;	11/08/2016	;	15:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+492	;	11/08/2016	;	17:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+493	;	11/08/2016	;	17:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+494	;	11/08/2016	;	18:00:00	;	Exit	;	Bus	;	Iwo Road
+495	;	11/08/2016	;	18:15:00	;	Exit	;	Bus	;	Iwo Road
+496	;	11/08/2016	;	18:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+497	;	11/08/2016	;	18:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+498	;	11/08/2016	;	19:00:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+499	;	11/08/2016	;	19:15:00	;	Exit	;	Bus	;	Iwo Road
+500	;	11/08/2016	;	19:30:00	;	Exit	;	Bus	;	Iwo Road
+501	;	11/08/2016	;	19:45:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+502	;	11/08/2016	;	20:15:00	;	Exit	;	Bus	;	Iwo Road
+503	;	11/08/2016	;	20:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+504	;	11/08/2016	;	20:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+505	;	11/08/2016	;	21:00:00	;	Entry	;	Bus	;	Iwo Road
+506	;	11/08/2016	;	21:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+507	;	11/08/2016	;	21:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+508	;	11/08/2016	;	21:45:00	;	Entry	;	Bus	;	Iwo Road
+509	;	11/08/2016	;	22:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+510	;	11/08/2016	;	22:15:00	;	Entry	;	Bus	;	Iwo Road
+511	;	11/08/2016	;	22:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+512	;	11/08/2016	;	22:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+513	;	11/08/2016	;	23:00:00	;	Exit	;	Bus	;	Iwo Road
+514	;	12/08/2016	;	00:01:12	;	Exit	;	Bus	;	Iwo Road
+515	;	12/08/2016	;	00:12:43	;	Entry	;	Bus	;	Iwo Road
+516	;	12/08/2016	;	00:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+517	;	12/08/2016	;	00:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+518	;	12/08/2016	;	00:45:00	;	Entry 	;	Bus	;	Iwo Road
+519	;	12/08/2016	;	01:00:00	;	Entry 	;	Bus	;	Iwo Road
+520	;	12/08/2016	;	01:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+521	;	12/08/2016	;	01:30:00	;	Exit 	;	Passenger Car	;	Iwo Road
+522	;	12/08/2016	;	01:45:00	;	Entry 	;	Passenger Car	;	Iwo Road
+523	;	12/08/2016	;	02:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+524	;	12/08/2016	;	02:15:00	;	Entry	;	Bus	;	Iwo Road
+525	;	12/08/2016	;	02:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+526	;	12/08/2016	;	02:45:00	;	Entry	;	Bus	;	Iwo Road
+527	;	12/08/2016	;	03:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+528	;	12/08/2016	;	03:15:00	;	Entry	;	Bus	;	Iwo Road
+529	;	12/08/2016	;	03:30:00	;	Entry	;	Bus	;	Iwo Road
+530	;	12/08/2016	;	03:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+531	;	12/08/2016	;	04:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+532	;	12/08/2016	;	04:15:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+533	;	12/08/2016	;	04:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+534	;	12/08/2016	;	04:45:00	;	Entry	;	Bus	;	Iwo Road
+535	;	12/08/2016	;	05:00:00	;	Entry	;	Passenger Car 	;	Iwo Road
+536	;	12/08/2016	;	05:15:00	;	Entry	;	Bus 	;	Iwo Road
+537	;	12/08/2016	;	05:30:00	;	Entry	;	Bus	;	Iwo Road
+538	;	12/08/2016	;	05:45:00	;	Exit	;	Passenger Car 	;	Iwo Road
+539	;	12/08/2016	;	06:00:00	;	Exit 	;	Bus 	;	Iwo Road
+540	;	12/08/2016	;	06:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+541	;	12/08/2016	;	06:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+542	;	13/08/2016	;	06:45:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+543	;	13/08/2016	;	07:00:00	;	Exit 	;	Bus	;	Iwo Road
+544	;	13/08/2016	;	07:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+545	;	13/08/2016	;	07:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+546	;	13/08/2016	;	07:45:00	;	Exit	;	Bus	;	Iwo Road
+547	;	13/08/2016	;	08:00:00	;	Exit	;	Bus	;	Iwo Road
+548	;	13/08/2016	;	08:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+549	;	13/08/2016	;	08:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+550	;	13/08/2016	;	08:45:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+551	;	13/08/2016	;	09:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+552	;	13/08/2016	;	09:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+553	;	13/08/2016	;	09:30:00	;	Exit	;	Bus	;	Iwo Road
+554	;	13/08/2016	;	09:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+555	;	13/08/2016	;	10:00:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+556	;	13/08/2016	;	10:15:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+557	;	13/08/2016	;	10:30:00	;	Entry	;	Bus	;	Iwo Road
+558	;	13/08/2016	;	10:45:00	;	Exit	;	Bus	;	Iwo Road
+559	;	13/08/2016	;	11:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+560	;	13/08/2016	;	11:15:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+561	;	13/08/2016	;	11:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+562	;	13/08/2016	;	11:45:00	;	Exit	;	Bus	;	Iwo Road
+563	;	13/08/2016	;	12:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+564	;	13/08/2016	;	12:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+565	;	13/08/2016	;	12:30:00	;	Exit	;	Bus	;	Iwo Road
+566	;	13/08/2016	;	12:45:00	;	Exit	;	Bus	;	Iwo Road
+567	;	13/08/2016	;	13:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+568	;	13/08/2016	;	13:15:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+569	;	13/08/2016	;	13:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+570	;	13/08/2016	;	13:45:00	;	Entry	;	Bus	;	Iwo Road
+571	;	13/08/2016	;	14:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+572	;	13/08/2016	;	14:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+573	;	13/08/2016	;	14:30:00	;	Entry	;	Bus	;	Iwo Road
+574	;	13/08/2016	;	14:45:00	;	Exit	;	Bus	;	Iwo Road
+575	;	13/08/2016	;	15:00:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+576	;	13/08/2016	;	15:15:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+577	;	13/08/2016	;	15:30:00	;	Exit	;	Bus 	;	Iwo Road
+578	;	13/08/2016	;	15:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+579	;	13/08/2016	;	16:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+580	;	13/08/2016	;	16:15:00	;	Exit	;	Bus	;	Iwo Road
+581	;	13/08/2016	;	16:30:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+582	;	13/08/2016	;	16:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+583	;	13/08/2016	;	17:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+584	;	13/08/2016	;	17:15:00	;	Entry	;	Bus	;	Iwo Road
+585	;	13/08/2016	;	17:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+586	;	13/08/2016	;	17:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+587	;	13/08/2016	;	18:00:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+588	;	13/08/2016	;	18:15:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+589	;	13/08/2016	;	18:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+590	;	13/08/2016	;	18:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+591	;	13/08/2016	;	19:00:00	;	Entry	;	Bus	;	Iwo Road
+592	;	13/08/2016	;	19:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+593	;	13/08/2016	;	19:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+594	;	13/08/2016	;	19:45:00	;	Exit	;	Bus	;	Iwo Road
+595	;	13/08/2016	;	20:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+596	;	13/08/2016	;	20:15:00	;	Entry	;	Bus	;	Iwo Road
+597	;	13/08/2016	;	20:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+598	;	13/08/2016	;	20:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+599	;	13/08/2016	;	21:00:00	;	Exit	;	Bus	;	Iwo Road
+600	;	13/08/2016	;	21:15:00	;	Exit	;	Bus	;	Iwo Road
+601	;	13/08/2016	;	21:30:00	;	Exit	;	Bus	;	Iwo Road
+602	;	13/08/2016	;	21:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+603	;	13/08/2016	;	22:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+604	;	13/08/2016	;	22:15:00	;	Exit	;	Bus	;	Iwo Road
+605	;	13/08/2016	;	22:30:00	;	Exit	;	Bus	;	Iwo Road
+606	;	13/08/2016	;	22:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+607	;	13/08/2016	;	23:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+608	;	13/08/2016	;	23:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+609	;	13/08/2016	;	23:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+610	;	13/08/2016	;	23:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+611	;	14/08/2016	;	03:10:00	;	Exit	;	Passenger Car	;	Iwo Road
+612	;	14/08/2016	;	03:25:10	;	Entry	;	Passenger Car	;	Iwo Road
+613	;	14/08/2016	;	03:12:58	;	Entry 	;	Bus	;	Iwo Road
+614	;	14/08/2016	;	04:10:15	;	Entry 	;	Passenger Car	;	Iwo Road
+615	;	14/08/2016	;	05:09:36	;	Entry	;	Passenger car	;	Iwo Road
+616	;	14/08/2016	;	06:00:00	;	Exit 	;	Bus	;	Iwo Road
+617	;	14/08/2016	;	08:15:00	;	Entry 	;	Bus	;	Iwo Road
+618	;	14/08/2016	;	09:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+619	;	14/08/2016	;	09:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+620	;	14/08/2016	;	09:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+621	;	14/08/2016	;	09:45:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+622	;	14/08/2016	;	11:15:00	;	Entry	;	Bus	;	Iwo Road
+623	;	14/08/2016	;	12:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+624	;	14/08/2016	;	14:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+625	;	14/08/2016	;	14:30:00	;	Entry	;	Bus	;	Iwo Road
+626	;	14/08/2016	;	15:34:12	;	Entry	;	Passenger Car	;	Iwo Road
+627	;	14/08/2016	;	16:54:11	;	Entry	;	3-axle Trailer	;	Iwo Road
+628	;	14/08/2016	;	16:57:13	;	Entry	;	2-axle Trailer	;	Iwo Road
+629	;	14/08/2016	;	16:59:00	;	Entry	;	Bus	;	Iwo Road
+630	;	14/08/2016	;	17:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+631	;	14/08/2016	;	17:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+632	;	14/08/2016	;	17:45:00	;	Entry	;	Bus	;	Iwo Road
+633	;	14/08/2016	;	18:00:00	;	Exit	;	Bus	;	Iwo Road
+634	;	14/08/2016	;	18:15:00	;	Exit 	;	Passenger Car	;	Iwo Road
+635	;	14/08/2016	;	19:00:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+636	;	14/08/2016	;	19:15:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+637	;	14/08/2016	;	19:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+638	;	14/08/2016	;	19:45:00	;	Exit 	;	Passenger Car	;	Iwo Road
+639	;	14/08/2016	;	19:48:12	;	Exit	;	Bus	;	Iwo Road
+640	;	14/08/2016	;	19:55:45	;	Entry	;	Passenger Car	;	Iwo Road
+641	;	14/08/2016	;	19:57:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+642	;	14/08/2016	;	20:10:15	;	Exit	;	3-axle Trailer	;	Iwo Road
+643	;	14/08/2016	;	20:12:23	;	Exit	;	Bus	;	Iwo Road
+644	;	14/08/2016	;	22:14:19	;	Entry	;	Bus	;	Iwo Road
+645	;	14/08/2016	;	22:22:22	;	Entry	;	Passenger Car	;	Iwo Road
+646	;	14/08/2016	;	22:30:00	;	Entry	;	Bus	;	Iwo Road
+647	;	14/08/2016	;	23:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+648	;	14/08/2016	;	23:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+649	;	14/08/2016	;	23:58:59	;	Exit	;	Bus	;	Iwo Road
+650	;	14/08/2016	;	23:59:59	;	Exit	;	Bus	;	Iwo Road
+651	;	15/08/2016	;	06:00:00	;	Entry	;	Bus	;	Iwo Road
+652	;	15/08/2016	;	06:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+653	;	15/08/2016	;	06:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+654	;	15/08/2016	;	06:45:00	;	Entry	;	Bus	;	Iwo Road
+655	;	15/08/2016	;	07:00:00	;	Exit	;	Bus	;	Iwo Road
+656	;	15/08/2016	;	07:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+657	;	15/08/2016	;	07:30:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+658	;	15/08/2016	;	07:45:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+659	;	15/08/2016	;	08:00:00	;	Entry	;	Bus	;	Iwo Road
+660	;	15/08/2016	;	08:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+661	;	15/08/2016	;	08:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+662	;	15/08/2016	;	08:45:00	;	Exit	;	Bus	;	Iwo Road
+663	;	15/08/2016	;	12:00:00	;	Exit	;	Bus	;	Iwo Road
+664	;	15/08/2016	;	13:15:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+665	;	15/08/2016	;	14:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+666	;	15/08/2016	;	14:45:00	;	Exit	;	Bus 	;	Iwo Road
+667	;	15/08/2016	;	16:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+668	;	16/08/2016	;	02:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+669	;	16/08/2016	;	02:10:00	;	Entry	;	Bus	;	Iwo Road
+670	;	16/08/2016	;	04:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+671	;	16/08/2016	;	05:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+672	;	16/08/2016	;	06:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+673	;	16/08/2016	;	08:15:00	;	Exit	;	Bus	;	Iwo Road
+674	;	16/08/2016	;	09:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+675	;	16/08/2016	;	09:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+676	;	16/08/2016	;	09:30:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+677	;	16/08/2016	;	09:45:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+678	;	16/08/2016	;	11:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+679	;	16/08/2016	;	12:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+680	;	16/08/2016	;	14:15:00	;	Entry	;	Bus	;	Iwo Road
+681	;	16/08/2016	;	14:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+682	;	16/08/2016	;	15:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+683	;	16/08/2016	;	15:15:00	;	Entry	;	Bus	;	Iwo Road
+684	;	16/08/2016	;	15:45:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+685	;	16/08/2016	;	17:00:00	;	Exit	;	Bus	;	Iwo Road
+686	;	16/08/2016	;	17:10:00	;	Exit	;	Passenger Car	;	Iwo Road
+687	;	16/08/2016	;	17:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+688	;	16/08/2016	;	19:00:00	;	Entry	;	Bus	;	Iwo Road
+689	;	16/08/2016	;	19:30:00	;	Entry	;	Bus	;	Iwo Road
+690	;	16/08/2016	;	19:45:00	;	Exit	;	Bus	;	Iwo Road
+691	;	16/08/2016	;	20:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+692	;	16/08/2016	;	20:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+693	;	16/08/2016	;	21:00:00	;	Exit	;	Bus	;	Iwo Road
+694	;	16/08/2016	;	21:15:00	;	Exit	;	Bus	;	Iwo Road
+695	;	16/08/2016	;	22:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+696	;	16/08/2016	;	23:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+697	;	16/08/2016	;	23:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+698	;	17/08/2016	;	05:30:00	;	Entry 	;	2-axle Trailer	;	Iwo Road
+699	;	17/08/2016	;	06:00:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+700	;	17/08/2016	;	06:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+701	;	17/08/2016	;	06:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+702	;	17/08/2016	;	06:45:00	;	Entry	;	Bus	;	Iwo Road
+703	;	17/08/2016	;	07:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+704	;	17/08/2016	;	07:15:00	;	Exit	;	Passenger car	;	Iwo Road
+705	;	17/08/2016	;	07:30:00	;	Exit	;	Bus	;	Iwo Road
+706	;	17/08/2016	;	07:45:00	;	Exit	;	Bus	;	Iwo Road
+707	;	17/08/2016	;	08:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+708	;	17/08/2016	;	08:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+709	;	17/08/2016	;	08:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+710	;	17/08/2016	;	08:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+711	;	17/08/2016	;	12:00:00	;	Entry	;	Bus	;	Iwo Road
+712	;	17/08/2016	;	13:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+713	;	17/08/2016	;	14:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+714	;	17/08/2016	;	14:45:00	;	Exit	;	Bus	;	Iwo Road
+715	;	17/08/2016	;	16:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+716	;	17/08/2016	;	16:10:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+717	;	17/08/2016	;	16:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+718	;	17/08/2016	;	17:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+719	;	17/08/2016	;	17:10:00	;	Exit	;	Bus	;	Iwo Road
+720	;	17/08/2016	;	17:45:00	;	Entry	;	Bus	;	Iwo Road
+721	;	17/08/2016	;	17:50:00	;	Entry	;	Passenger Car	;	Iwo Road
+722	;	17/08/2016	;	18:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+723	;	17/08/2016	;	18:30:00	;	Exit	;	Bus	;	Iwo Road
+724	;	17/08/2016	;	18:45:00	;	Exit	;	Bus	;	Iwo Road
+725	;	17/08/2016	;	19:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+726	;	17/08/2016	;	19:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+727	;	17/08/2016	;	20:00:00	;	Entry	;	Bus	;	Iwo Road
+728	;	17/08/2016	;	20:30:00	;	Entry	;	Bus	;	Iwo Road
+729	;	17/08/2016	;	21:00:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+730	;	17/08/2016	;	21:15:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+731	;	17/08/2016	;	22:30:00	;	Exit	;	Bus	;	Iwo Road
+732	;	17/08/2016	;	23:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+733	;	17/08/2016	;	23:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+734	;	18/08/2016	;	07:00:00	;	Entry	;	Bus	;	Iwo Road
+735	;	18/08/2016	;	07:05:00	;	Entry	;	Bus	;	Iwo Road
+736	;	18/08/2016	;	07:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+737	;	18/08/2016	;	07:50:00	;	Exit	;	Passenger Car	;	Iwo Road
+738	;	18/08/2016	;	08:00:00	;	Entry	;	Bus	;	Iwo Road
+739	;	18/08/2016	;	08:15:00	;	Entry	;	Bus	;	Iwo Road
+740	;	18/08/2016	;	08:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+741	;	18/08/2016	;	08:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+742	;	18/08/2016	;	09:00:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+743	;	18/08/2016	;	09:45:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+744	;	18/08/2016	;	11:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+745	;	18/08/2016	;	11:15:00	;	Entry 	;	Passenger Car	;	Iwo Road
+746	;	18/08/2016	;	12:00:45	;	Exit	;	Bus	;	Iwo Road
+747	;	18/08/2016	;	13:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+748	;	18/08/2016	;	14:00:30	;	Entry	;	Passenger Car	;	Iwo Road
+749	;	18/08/2016	;	14:30:00	;	Entry	;	Bus	;	Iwo Road
+750	;	18/08/2016	;	14:45:00	;	Exit	;	Bus	;	Iwo Road
+751	;	18/08/2016	;	15:11:10	;	Exit	;	Passenger Car	;	Iwo Road
+752	;	18/08/2016	;	15:20:00	;	Entry	;	Passenger Car	;	Iwo Road
+753	;	18/08/2016	;	15:22:00	;	Entry	;	Bus 	;	Iwo Road
+754	;	18/08/2016	;	15:30:00	;	Entry	;	Bus 	;	Iwo Road
+755	;	18/08/2016	;	15:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+756	;	18/08/2016	;	16:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+757	;	18/08/2016	;	16:05:00	;	Entry	;	Bus	;	Iwo Road
+758	;	18/08/2016	;	16:55:00	;	Entry	;	Bus	;	Iwo Road
+759	;	18/08/2016	;	17:10:00	;	Entry	;	Passenger Car	;	Iwo Road
+760	;	18/08/2016	;	17:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+761	;	18/08/2016	;	17:50:00	;	Exit	;	Passenger Car	;	Iwo Road
+762	;	18/08/2016	;	18:15:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+763	;	18/08/2016	;	18:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+764	;	18/08/2016	;	18:45:00	;	Entry	;	Bus	;	Iwo Road
+765	;	18/08/2016	;	19:00:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+766	;	18/08/2016	;	19:30:00	;	Exit	;	Bus	;	Iwo Road
+767	;	18/08/2016	;	20:00:00	;	Entry	;	Bus	;	Iwo Road
+768	;	18/08/2016	;	20:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+769	;	18/08/2016	;	21:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+770	;	18/08/2016	;	21:15:00	;	Entry	;	Bus	;	Iwo Road
+771	;	18/08/2016	;	22:30:00	;	Exit	;	Bus	;	Iwo Road
+772	;	18/08/2016	;	23:15:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+773	;	18/08/2016	;	23:30:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+774	;	19/08/2016	;	06:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+775	;	19/08/2016	;	06:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+776	;	19/08/2016	;	06:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+777	;	19/08/2016	;	06:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+778	;	19/08/2016	;	07:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+779	;	19/08/2016	;	07:15:00	;	Exit	;	Bus	;	Iwo Road
+780	;	19/08/2016	;	07:30:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+781	;	19/08/2016	;	07:45:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+782	;	19/08/2016	;	08:00:00	;	Exit	;	Bus	;	Iwo Road
+783	;	19/08/2016	;	08:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+784	;	19/08/2016	;	08:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+785	;	19/08/2016	;	08:45:00	;	Entry	;	Bus	;	Iwo Road
+786	;	19/08/2016	;	12:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+787	;	19/08/2016	;	12:00:45	;	Exit	;	Passenger Car	;	Iwo Road
+788	;	19/08/2016	;	13:15:00	;	Exit	;	Bus	;	Iwo Road
+789	;	19/08/2016	;	14:00:30	;	Entry	;	Bus	;	Iwo Road
+790	;	19/08/2016	;	14:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+791	;	19/08/2016	;	14:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+792	;	19/08/2016	;	15:11:10	;	Entry	;	2-axle Trailer	;	Iwo Road
+793	;	19/08/2016	;	15:20:00	;	Entry	;	Bus	;	Iwo Road
+794	;	19/08/2016	;	15:22:00	;	Exit	;	Bus	;	Iwo Road
+795	;	19/08/2016	;	15:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+796	;	19/08/2016	;	15:45:00	;	Exit	;	Bus	;	Iwo Road
+797	;	19/08/2016	;	16:00:00	;	Entry	;	Bus	;	Iwo Road
+798	;	19/08/2016	;	16:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+799	;	19/08/2016	;	17:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+800	;	19/08/2016	;	17:10:00	;	Entry	;	Bus	;	Iwo Road
+801	;	19/08/2016	;	17:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+802	;	19/08/2016	;	17:50:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+803	;	19/08/2016	;	18:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+804	;	19/08/2016	;	18:30:00	;	Entry	;	Bus	;	Iwo Road
+805	;	19/08/2016	;	18:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+806	;	19/08/2016	;	19:00:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+807	;	19/08/2016	;	19:30:00	;	Entry	;	Bus	;	Iwo Road
+808	;	19/08/2016	;	20:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+809	;	19/08/2016	;	22:30:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+810	;	19/08/2016	;	23:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+811	;	20/08/2016	;	00:15:15	;	Entry 	;	Passenger Car	;	Iwo Road
+812	;	20/08/2016	;	00:42:08	;	Entry	;	Passenger Car	;	Iwo Road
+813	;	20/08/2016	;	00:45:34	;	Entry 	;	Bus	;	Iwo Road
+814	;	20/08/2016	;	00:52:45	;	Exit	;	Bus	;	Iwo Road
+815	;	20/08/2016	;	03:05:15	;	Entry	;	Passenger Car	;	Iwo Road
+816	;	20/08/2016	;	04:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+817	;	20/08/2016	;	05:35:00	;	Entry	;	Passenger Car	;	Iwo Road
+818	;	20/08/2016	;	06:00:00	;	Entry 	;	Passenger Car	;	Iwo Road
+819	;	20/08/2016	;	06:15:00	;	Exit	;	Bus	;	Iwo Road
+820	;	20/08/2016	;	06:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+821	;	20/08/2016	;	06:45:00	;	Exit	;	Bus	;	Iwo Road
+822	;	20/08/2016	;	07:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+823	;	20/08/2016	;	07:15:00	;	Entry	;	Bus	;	Iwo Road
+824	;	20/08/2016	;	07:30:00	;	Entry 	;	Bus	;	Iwo Road
+825	;	20/08/2016	;	07:45:00	;	Entry 	;	Passenger Car	;	Iwo Road
+826	;	20/08/2016	;	08:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+827	;	20/08/2016	;	08:15:00	;	Entry 	;	2-axle Trailer	;	Iwo Road
+828	;	20/08/2016	;	08:30:00	;	Entry 	;	Passenger Car	;	Iwo Road
+829	;	20/08/2016	;	08:45:00	;	Exit	;	Bus	;	Iwo Road
+830	;	20/08/2016	;	09:00:00	;	Exit	;	Passenger Car 	;	Iwo Road
+831	;	20/08/2016	;	09:15:00	;	Entry	;	Bus 	;	Iwo Road
+832	;	20/08/2016	;	09:30:00	;	Entry	;	Bus	;	Iwo Road
+833	;	20/08/2016	;	09:45:00	;	Exit	;	Passenger Car 	;	Iwo Road
+834	;	20/08/2016	;	16:00:00	;	Entry	;	Bus 	;	Iwo Road
+835	;	20/08/2016	;	16:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+836	;	20/08/2016	;	16:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+837	;	20/08/2016	;	16:45:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+838	;	20/08/2016	;	17:00:00	;	Entry	;	Bus	;	Iwo Road
+839	;	20/08/2016	;	17:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+840	;	20/08/2016	;	17:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+841	;	20/08/2016	;	17:45:00	;	Exit	;	Bus	;	Iwo Road
+842	;	20/08/2016	;	18:00:00	;	Exit	;	Bus	;	Iwo Road
+843	;	20/08/2016	;	18:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+844	;	20/08/2016	;	18:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+845	;	20/08/2016	;	18:45:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+846	;	20/08/2016	;	19:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+847	;	20/08/2016	;	19:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+848	;	20/08/2016	;	19:30:00	;	Exit	;	Bus	;	Iwo Road
+849	;	20/08/2016	;	19:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+850	;	20/08/2016	;	20:00:00	;	Exit 	;	2-axle Trailer	;	Iwo Road
+851	;	20/08/2016	;	20:30:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+852	;	20/08/2016	;	21:00:00	;	Exit 	;	Bus	;	Iwo Road
+853	;	20/08/2016	;	21:15:00	;	Entry	;	Bus	;	Iwo Road
+854	;	20/08/2016	;	22:30:00	;	Entry 	;	Passenger Car	;	Iwo Road
+855	;	20/08/2016	;	23:15:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+856	;	20/08/2016	;	23:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+857	;	21/08/2016	;	03:10:00	;	Exit	;	Bus	;	Iwo Road
+858	;	21/08/2016	;	03:25:10	;	Exit	;	Bus	;	Iwo Road
+859	;	21/08/2016	;	03:12:58	;	Exit	;	2-axle Trailer	;	Iwo Road
+860	;	21/08/2016	;	04:10:15	;	Exit	;	Bus	;	Iwo Road
+861	;	21/08/2016	;	05:09:36	;	Entry	;	Passenger Car	;	Iwo Road
+862	;	21/08/2016	;	06:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+863	;	21/08/2016	;	08:15:00	;	Entry	;	Bus	;	Iwo Road
+864	;	21/08/2016	;	09:00:00	;	Entry	;	Bus	;	Iwo Road
+865	;	21/08/2016	;	09:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+866	;	21/08/2016	;	09:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+867	;	21/08/2016	;	09:45:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+868	;	21/08/2016	;	11:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+869	;	21/08/2016	;	12:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+870	;	21/08/2016	;	14:15:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+871	;	21/08/2016	;	14:30:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+872	;	21/08/2016	;	15:34:12	;	Entry	;	Bus 	;	Iwo Road
+873	;	21/08/2016	;	16:54:11	;	Exit	;	Passenger Car	;	Iwo Road
+874	;	21/08/2016	;	16:57:13	;	Entry	;	Bus 	;	Iwo Road
+875	;	21/08/2016	;	16:59:00	;	Entry	;	Passenger Car	;	Iwo Road
+876	;	21/08/2016	;	17:15:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+877	;	21/08/2016	;	17:30:00	;	Entry	;	Bus	;	Iwo Road
+878	;	21/08/2016	;	17:45:00	;	Exit	;	Bus	;	Iwo Road
+879	;	21/08/2016	;	18:00:00	;	Exit	;	Bus	;	Iwo Road
+880	;	21/08/2016	;	18:15:00	;	Entry	;	Bus	;	Iwo Road
+881	;	21/08/2016	;	19:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+882	;	21/08/2016	;	19:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+883	;	21/08/2016	;	19:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+884	;	21/08/2016	;	19:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+885	;	21/08/2016	;	19:48:12	;	Exit	;	Passenger Car	;	Iwo Road
+886	;	21/08/2016	;	19:55:45	;	Exit	;	Bus	;	Iwo Road
+887	;	21/08/2016	;	19:57:00	;	Entry	;	Bus	;	Iwo Road
+888	;	21/08/2016	;	20:10:15	;	Entry	;	Passenger Car	;	Iwo Road
+889	;	21/08/2016	;	20:12:23	;	Exit	;	Passenger Car	;	Iwo Road
+890	;	21/08/2016	;	22:14:19	;	Exit	;	Passenger Car	;	Iwo Road
+891	;	21/08/2016	;	22:22:22	;	Exit	;	Bus	;	Iwo Road
+892	;	21/08/2016	;	22:30:00	;	Exit	;	Bus 	;	Iwo Road
+893	;	21/08/2016	;	23:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+894	;	21/08/2016	;	23:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+895	;	21/08/2016	;	23:58:59	;	Entry	;	Bus 	;	Iwo Road
+896	;	21/08/2016	;	23:59:59	;	Exit	;	Passenger Car	;	Iwo Road
+897	;	22/08/2016	;	04:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+898	;	22/08/2016	;	05:20:12	;	Entry	;	Bus	;	Iwo Road
+899	;	22/08/2016	;	06:00:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+900	;	22/08/2016	;	06:15:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+901	;	22/08/2016	;	06:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+902	;	22/08/2016	;	06:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+903	;	22/08/2016	;	07:00:00	;	Exit	;	Bus	;	Iwo Road
+904	;	22/08/2016	;	07:15:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+905	;	22/08/2016	;	07:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+906	;	22/08/2016	;	07:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+907	;	22/08/2016	;	08:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+908	;	22/08/2016	;	08:15:00	;	Entry	;	Bus	;	Iwo Road
+909	;	22/08/2016	;	08:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+910	;	22/08/2016	;	08:45:00	;	Entry	;	Bus	;	Iwo Road
+911	;	22/08/2016	;	09:00:00	;	Entry	;	Bus 	;	Iwo Road
+912	;	22/08/2016	;	09:15:00	;	Exit	;	Bus	;	Iwo Road
+913	;	22/08/2016	;	09:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+914	;	22/08/2016	;	09:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+915	;	22/08/2016	;	10:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+916	;	22/08/2016	;	10:30:00	;	Entry	;	Bus	;	Iwo Road
+917	;	22/08/2016	;	10:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+918	;	22/08/2016	;	11:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+919	;	22/08/2016	;	11:15:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+920	;	22/08/2016	;	11:30:00	;	Exit	;	Bus	;	Iwo Road
+921	;	22/08/2016	;	11:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+922	;	22/08/2016	;	12:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+923	;	22/08/2016	;	12:15:00	;	Exit	;	Bus	;	Iwo Road
+924	;	22/08/2016	;	12:30:00	;	Exit	;	Bus	;	Iwo Road
+925	;	22/08/2016	;	12:45:00	;	Entry	;	Bus	;	Iwo Road
+926	;	22/08/2016	;	13:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+927	;	22/08/2016	;	13:15:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+928	;	22/08/2016	;	13:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+929	;	22/08/2016	;	13:45:00	;	Entry	;	Bus	;	Iwo Road
+930	;	22/08/2016	;	14:00:00	;	Entry	;	Bus	;	Iwo Road
+931	;	22/08/2016	;	14:15:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+932	;	22/08/2016	;	14:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+933	;	22/08/2016	;	14:45:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+934	;	22/08/2016	;	15:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+935	;	22/08/2016	;	15:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+936	;	22/08/2016	;	15:30:00	;	Exit	;	Bus	;	Iwo Road
+937	;	22/08/2016	;	15:45:00	;	Entry	;	Bus	;	Iwo Road
+938	;	22/08/2016	;	16:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+939	;	22/08/2016	;	16:15:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+940	;	22/08/2016	;	16:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+941	;	22/08/2016	;	16:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+942	;	22/08/2016	;	17:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+943	;	22/08/2016	;	17:15:00	;	Entry	;	Bus	;	Iwo Road
+944	;	22/08/2016	;	17:30:00	;	Exit	;	Bus	;	Iwo Road
+945	;	22/08/2016	;	17:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+946	;	22/08/2016	;	18:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+947	;	22/08/2016	;	18:15:00	;	Entry	;	Bus	;	Iwo Road
+948	;	22/08/2016	;	18:30:00	;	Entry	;	Bus 	;	Iwo Road
+949	;	22/08/2016	;	18:45:00	;	Exit	;	2-axle Trailer 	;	Iwo Road
+950	;	22/08/2016	;	19:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+951	;	22/08/2016	;	19:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+952	;	22/08/2016	;	19:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+953	;	22/08/2016	;	19:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+954	;	22/08/2016	;	20:00:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+955	;	22/08/2016	;	20:15:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+956	;	22/08/2016	;	20:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+957	;	22/08/2016	;	20:45:00	;	Exit	;	Bus	;	Iwo Road
+958	;	22/08/2016	;	21:00:00	;	Exit	;	Bus	;	Iwo Road
+959	;	22/08/2016	;	21:15:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+960	;	22/08/2016	;	21:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+961	;	22/08/2016	;	21:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+962	;	22/08/2016	;	22:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+963	;	22/08/2016	;	22:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+964	;	22/08/2016	;	22:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+965	;	22/08/2016	;	22:45:00	;	Entry	;	Bus	;	Iwo Road
+966	;	22/08/2016	;	23:00:00	;	Entry	;	Bus	;	Iwo Road
+967	;	22/08/2016	;	23:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+968	;	22/08/2016	;	23:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+969	;	22/08/2016	;	23:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+970	;	23/08/2016	;	00:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+971	;	23/08/2016	;	01:15:12	;	Entry	;	Passenger Car	;	Iwo Road
+972	;	23/08/2016	;	01:34:54	;	Entry 	;	Passenger Car	;	Iwo Road
+973	;	23/08/2016	;	01:43:23	;	Entry 	;	Passenger Car	;	Iwo Road
+974	;	23/08/2016	;	01:56:11	;	Entry	;	Bus 	;	Iwo Road
+975	;	23/08/2016	;	01:57:21	;	Exit 	;	Passenger Car	;	Iwo Road
+976	;	23/08/2016	;	04:30:00	;	Entry 	;	Bus	;	Iwo Road
+977	;	23/08/2016	;	04:45:00	;	Entry	;	Bus	;	Iwo Road
+978	;	23/08/2016	;	05:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+979	;	23/08/2016	;	05:15:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+980	;	23/08/2016	;	05:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+981	;	23/08/2016	;	05:32:12	;	Entry	;	Passenger Car	;	Iwo Road
+982	;	23/08/2016	;	05:39:32	;	Entry	;	Passenger Car	;	Iwo Road
+983	;	23/08/2016	;	06:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+984	;	23/08/2016	;	06:15:00	;	Entry	;	2-axle Trailer 	;	Iwo Road
+985	;	23/08/2016	;	06:30:00	;	Entry	;	Bus	;	Iwo Road
+986	;	23/08/2016	;	06:45:00	;	Entry	;	Bus	;	Iwo Road
+987	;	23/08/2016	;	07:00:00	;	Entry	;	Bus	;	Iwo Road
+988	;	23/08/2016	;	07:15:00	;	Entry	;	Bus	;	Iwo Road
+989	;	23/08/2016	;	07:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+990	;	23/08/2016	;	07:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+991	;	23/08/2016	;	07:55:34	;	Entry	;	Bus	;	Iwo Road
+992	;	23/08/2016	;	07:58:54	;	Exit	;	Bus	;	Iwo Road
+993	;	23/08/2016	;	08:00:00	;	Exit 	;	2-axle Trailer	;	Iwo Road
+994	;	23/08/2016	;	08:15:00	;	Exit	;	2-axle Trailer 	;	Iwo Road
+995	;	23/08/2016	;	08:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+996	;	23/08/2016	;	08:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+997	;	23/08/2016	;	09:00:00	;	Exit 	;	Passenger Car	;	Iwo Road
+998	;	23/08/2016	;	09:15:00	;	Exit	;	Bus	;	Iwo Road
+999	;	23/08/2016	;	09:30:00	;	Entry	;	Bus	;	Iwo Road
+1000	;	23/08/2016	;	09:45:00	;	Exit	;	3-axle Trailer 	;	Iwo Road
+1001	;	23/08/2016	;	10:00:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+1002	;	23/08/2016	;	10:15:00	;	Exit	;	Passenger Car 	;	Iwo Road
+1003	;	23/08/2016	;	10:30:00	;	Entry	;	Bus	;	Iwo Road
+1004	;	23/08/2016	;	10:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1005	;	23/08/2016	;	11:00:00	;	Entry	;	Bus	;	Iwo Road
+1006	;	23/08/2016	;	12:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1007	;	23/08/2016	;	12:56:12	;	Exit	;	Passenger Car	;	Iwo Road
+1008	;	23/08/2016	;	12:58:58	;	Exit	;	Bus	;	Iwo Road
+1009	;	23/08/2016	;	13:30:00	;	Exit	;	Bus	;	Iwo Road
+1010	;	23/08/2016	;	13:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1011	;	23/08/2016	;	14:00:00	;	Entry	;	Bus	;	Iwo Road
+1012	;	23/08/2016	;	14:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1013	;	23/08/2016	;	14:30:00	;	Exit	;	Bus	;	Iwo Road
+1014	;	23/08/2016	;	14:44:00	;	Entry	;	2-axle Trailer 	;	Iwo Road
+1015	;	23/08/2016	;	15:45:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1016	;	23/08/2016	;	16:00:00	;	Exit	;	Passenger Car 	;	Iwo Road
+1017	;	23/08/2016	;	16:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1018	;	23/08/2016	;	16:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1019	;	23/08/2016	;	16:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+1020	;	23/08/2016	;	17:00:00	;	Exit	;	2-axle Trailer 	;	Iwo Road
+1021	;	23/08/2016	;	17:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1022	;	23/08/2016	;	17:30:00	;	Exit	;	Bus	;	Iwo Road
+1023	;	23/08/2016	;	17:45:00	;	Exit	;	Bus	;	Iwo Road
+1024	;	23/08/2016	;	18:15:13	;	Entry	;	Passenger Car	;	Iwo Road
+1025	;	23/08/2016	;	18:45:22	;	Entry	;	Passenger Car	;	Iwo Road
+1026	;	23/08/2016	;	18:55:21	;	Entry	;	2-axle Trailer	;	Iwo Road
+1027	;	23/08/2016	;	19:30:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1028	;	23/08/2016	;	19:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+1029	;	23/08/2016	;	20:00:00	;	Entry	;	Bus	;	Iwo Road
+1030	;	23/08/2016	;	20:15:00	;	Entry	;	Bus	;	Iwo Road
+1031	;	23/08/2016	;	20:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1032	;	23/08/2016	;	20:45:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1033	;	23/08/2016	;	21:00:00	;	Entry	;	Bus	;	Iwo Road
+1034	;	23/08/2016	;	21:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1035	;	23/08/2016	;	21:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1036	;	23/08/2016	;	21:45:00	;	Entry	;	Bus	;	Iwo Road
+1037	;	23/08/2016	;	22:00:00	;	Entry	;	Bus	;	Iwo Road
+1038	;	23/08/2016	;	22:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+1039	;	23/08/2016	;	22:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1040	;	23/08/2016	;	22:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+1041	;	23/08/2016	;	23:00:00	;	Exit	;	Bus	;	Iwo Road
+1042	;	23/08/2016	;	23:15:00	;	Exit	;	Bus	;	Iwo Road
+1043	;	23/08/2016	;	23:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1044	;	23/08/2016	;	23:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+1045	;	24/08/2016	;	02:07:45	;	Entry	;	Bus	;	Iwo Road
+1046	;	24/08/2016	;	03:06:56	;	Entry	;	Passenger Car	;	Iwo Road
+1047	;	24/08/2016	;	03:12:45	;	Entry	;	Passenger Car	;	Iwo Road
+1048	;	24/08/2016	;	04:10:45	;	Entry	;	Bus	;	Iwo Road
+1049	;	24/08/2016	;	05:45:00	;	Entry	;	Bus	;	Iwo Road
+1050	;	24/08/2016	;	06:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1051	;	24/08/2016	;	06:15:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1052	;	24/08/2016	;	06:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1053	;	24/08/2016	;	06:45:00	;	Entry	;	Bus	;	Iwo Road
+1054	;	24/08/2016	;	07:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1055	;	24/08/2016	;	07:19:44	;	Exit	;	Passenger Car	;	Iwo Road
+1056	;	24/08/2016	;	07:59:00	;	Exit	;	Bus	;	Iwo Road
+1057	;	24/08/2016	;	08:45:00	;	Entry	;	Bus	;	Iwo Road
+1058	;	24/08/2016	;	09:00:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1059	;	24/08/2016	;	09:15:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1060	;	24/08/2016	;	09:30:00	;	Exit	;	Bus 	;	Iwo Road
+1061	;	24/08/2016	;	09:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1062	;	24/08/2016	;	10:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+1063	;	24/08/2016	;	10:15:00	;	Exit	;	Bus	;	Iwo Road
+1064	;	24/08/2016	;	10:30:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1065	;	24/08/2016	;	10:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1066	;	24/08/2016	;	11:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1067	;	24/08/2016	;	12:15:00	;	Exit	;	Bus	;	Iwo Road
+1068	;	24/08/2016	;	12:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1069	;	24/08/2016	;	12:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1070	;	24/08/2016	;	13:00:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1071	;	24/08/2016	;	13:15:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1072	;	24/08/2016	;	13:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1073	;	24/08/2016	;	13:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1074	;	24/08/2016	;	14:00:00	;	Entry	;	Bus	;	Iwo Road
+1075	;	24/08/2016	;	14:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+1076	;	24/08/2016	;	14:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+1077	;	24/08/2016	;	14:45:00	;	Entry	;	Bus	;	Iwo Road
+1078	;	24/08/2016	;	14:56:43	;	Entry	;	2-axle Trailer	;	Iwo Road
+1079	;	24/08/2016	;	15:32:34	;	Entry	;	Bus	;	Iwo Road
+1080	;	24/08/2016	;	15:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1081	;	24/08/2016	;	16:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1082	;	24/08/2016	;	16:15:00	;	Entry	;	Bus	;	Iwo Road
+1083	;	24/08/2016	;	16:30:00	;	Exit	;	Bus	;	Iwo Road
+1084	;	24/08/2016	;	16:45:00	;	Exit	;	Bus	;	Iwo Road
+1085	;	24/08/2016	;	17:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1086	;	24/08/2016	;	19:02:21	;	Entry	;	Passenger Car	;	Iwo Road
+1087	;	24/08/2016	;	19:22:45	;	Exit	;	Bus	;	Iwo Road
+1088	;	24/08/2016	;	19:54:12	;	Exit	;	Bus	;	Iwo Road
+1089	;	24/08/2016	;	19:58:12	;	Exit	;	Passenger Car	;	Iwo Road
+1090	;	24/08/2016	;	19:59:00	;	Entry	;	Passenger Car	;	Iwo Road
+1091	;	24/08/2016	;	20:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1092	;	24/08/2016	;	20:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1093	;	24/08/2016	;	20:45:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1094	;	24/08/2016	;	21:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+1095	;	24/08/2016	;	21:15:00	;	Exit	;	Bus	;	Iwo Road
+1096	;	24/08/2016	;	21:30:00	;	Entry	;	Passenger Car 	;	Iwo Road
+1097	;	24/08/2016	;	21:45:00	;	Entry	;	Bus 	;	Iwo Road
+1098	;	24/08/2016	;	22:00:00	;	Entry	;	Bus	;	Iwo Road
+1099	;	24/08/2016	;	22:15:00	;	Entry	;	Passenger Car 	;	Iwo Road
+1100	;	25/08/2016	;	01:15:51	;	Exit	;	Bus 	;	Iwo Road
+1101	;	25/08/2016	;	02:32:45	;	Exit	;	Passenger Car	;	Iwo Road
+1102	;	25/08/2016	;	04:14:56	;	Entry	;	Passenger Car	;	Iwo Road
+1103	;	25/08/2016	;	04:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1104	;	25/08/2016	;	04:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1105	;	25/08/2016	;	04:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1106	;	25/08/2016	;	05:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1107	;	25/08/2016	;	05:15:00	;	Entry	;	Bus 	;	Iwo Road
+1108	;	25/08/2016	;	05:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1109	;	25/08/2016	;	05:45:00	;	Exit	;	Bus	;	Iwo Road
+1110	;	25/08/2016	;	06:00:00	;	Entry	;	Bus	;	Iwo Road
+1111	;	25/08/2016	;	06:15:00	;	Entry	;	Bus	;	Iwo Road
+1112	;	25/08/2016	;	06:17:32	;	Entry	;	Passenger Car	;	Iwo Road
+1113	;	25/08/2016	;	06:22:45	;	Entry	;	Bus	;	Iwo Road
+1114	;	25/08/2016	;	07:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+1115	;	25/08/2016	;	07:30:00	;	Entry	;	Bus	;	Iwo Road
+1116	;	25/08/2016	;	07:45:00	;	Entry	;	Bus	;	Iwo Road
+1117	;	25/08/2016	;	08:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+1118	;	25/08/2016	;	08:15:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1119	;	25/08/2016	;	08:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1120	;	25/08/2016	;	08:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1121	;	25/08/2016	;	09:00:00	;	Entry	;	Bus	;	Iwo Road
+1122	;	25/08/2016	;	09:15:00	;	Entry	;	Passenger Car 	;	Iwo Road
+1123	;	25/08/2016	;	09:30:00	;	Entry	;	Bus 	;	Iwo Road
+1124	;	25/08/2016	;	09:45:00	;	Entry	;	Bus	;	Iwo Road
+1125	;	25/08/2016	;	10:00:00	;	Entry	;	Passenger Car 	;	Iwo Road
+1126	;	25/08/2016	;	10:10:10	;	Entry	;	Bus 	;	Iwo Road
+1127	;	25/08/2016	;	11:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+1128	;	25/08/2016	;	11:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+1129	;	25/08/2016	;	11:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+1130	;	25/08/2016	;	12:00:00	;	Exit	;	Bus	;	Iwo Road
+1131	;	25/08/2016	;	12:14:52	;	Entry	;	Passenger Car	;	Iwo Road
+1132	;	25/08/2016	;	12:45:56	;	Exit	;	Passenger Car	;	Iwo Road
+1133	;	25/08/2016	;	13:30:00	;	Entry	;	Bus	;	Iwo Road
+1134	;	25/08/2016	;	13:45:00	;	Entry	;	Bus	;	Iwo Road
+1135	;	25/08/2016	;	14:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1136	;	25/08/2016	;	14:15:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1137	;	25/08/2016	;	14:30:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1138	;	25/08/2016	;	14:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1139	;	25/08/2016	;	15:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1140	;	25/08/2016	;	15:15:00	;	Entry	;	Bus	;	Iwo Road
+1141	;	25/08/2016	;	15:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+1142	;	25/08/2016	;	17:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1143	;	25/08/2016	;	17:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+1144	;	25/08/2016	;	18:00:00	;	Exit	;	Bus	;	Iwo Road
+1145	;	25/08/2016	;	18:15:00	;	Exit	;	Bus	;	Iwo Road
+1146	;	25/08/2016	;	18:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1147	;	25/08/2016	;	18:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+1148	;	25/08/2016	;	19:00:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1149	;	25/08/2016	;	19:15:00	;	Exit	;	Bus	;	Iwo Road
+1150	;	25/08/2016	;	19:30:00	;	Exit	;	Bus	;	Iwo Road
+1151	;	25/08/2016	;	19:45:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1152	;	25/08/2016	;	20:15:00	;	Exit	;	Bus	;	Iwo Road
+1153	;	25/08/2016	;	20:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1154	;	25/08/2016	;	20:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+1155	;	25/08/2016	;	21:00:00	;	Entry	;	Bus	;	Iwo Road
+1156	;	25/08/2016	;	21:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1157	;	25/08/2016	;	21:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+1158	;	25/08/2016	;	21:45:00	;	Entry	;	Bus	;	Iwo Road
+1159	;	25/08/2016	;	22:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1160	;	25/08/2016	;	22:15:00	;	Entry	;	Bus	;	Iwo Road
+1161	;	25/08/2016	;	22:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1162	;	25/08/2016	;	22:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+1163	;	25/08/2016	;	23:00:00	;	Exit	;	Bus	;	Iwo Road
+1164	;	26/08/2016	;	00:01:12	;	Exit	;	Bus	;	Iwo Road
+1165	;	26/08/2016	;	00:12:43	;	Entry	;	Bus	;	Iwo Road
+1166	;	26/08/2016	;	00:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1167	;	26/08/2016	;	00:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+1168	;	26/08/2016	;	00:45:00	;	Entry 	;	Bus	;	Iwo Road
+1169	;	26/08/2016	;	01:00:00	;	Entry 	;	Bus	;	Iwo Road
+1170	;	26/08/2016	;	01:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+1171	;	26/08/2016	;	01:30:00	;	Exit 	;	Passenger Car	;	Iwo Road
+1172	;	26/08/2016	;	01:45:00	;	Entry 	;	Passenger Car	;	Iwo Road
+1173	;	26/08/2016	;	02:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1174	;	26/08/2016	;	02:15:00	;	Entry	;	Bus	;	Iwo Road
+1175	;	26/08/2016	;	02:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+1176	;	26/08/2016	;	02:45:00	;	Entry	;	Bus	;	Iwo Road
+1177	;	26/08/2016	;	03:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1178	;	26/08/2016	;	03:15:00	;	Entry	;	Bus	;	Iwo Road
+1179	;	26/08/2016	;	03:30:00	;	Entry	;	Bus	;	Iwo Road
+1180	;	26/08/2016	;	03:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1181	;	26/08/2016	;	04:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1182	;	26/08/2016	;	04:15:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1183	;	26/08/2016	;	04:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+1184	;	26/08/2016	;	04:45:00	;	Entry	;	Bus	;	Iwo Road
+1185	;	26/08/2016	;	05:00:00	;	Entry	;	Passenger Car 	;	Iwo Road
+1186	;	26/08/2016	;	05:15:00	;	Entry	;	Bus 	;	Iwo Road
+1187	;	26/08/2016	;	05:30:00	;	Entry	;	Bus	;	Iwo Road
+1188	;	26/08/2016	;	05:45:00	;	Exit	;	Passenger Car 	;	Iwo Road
+1189	;	26/08/2016	;	06:00:00	;	Exit 	;	Bus 	;	Iwo Road
+1190	;	26/08/2016	;	06:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1191	;	26/08/2016	;	06:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1192	;	26/08/2016	;	06:45:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1193	;	26/08/2016	;	07:00:00	;	Exit 	;	Bus	;	Iwo Road
+1194	;	26/08/2016	;	07:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1195	;	26/08/2016	;	07:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+1196	;	26/08/2016	;	07:45:00	;	Exit	;	Bus	;	Iwo Road
+1197	;	26/08/2016	;	08:00:00	;	Exit	;	Bus	;	Iwo Road
+1198	;	26/08/2016	;	08:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1199	;	26/08/2016	;	08:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1200	;	26/08/2016	;	08:45:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1201	;	26/08/2016	;	09:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1202	;	26/08/2016	;	09:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+1203	;	26/08/2016	;	09:30:00	;	Exit	;	Bus	;	Iwo Road
+1204	;	26/08/2016	;	09:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+1205	;	26/08/2016	;	10:00:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1206	;	26/08/2016	;	10:15:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1207	;	26/08/2016	;	10:30:00	;	Entry	;	Bus	;	Iwo Road
+1208	;	26/08/2016	;	10:45:00	;	Exit	;	Bus	;	Iwo Road
+1209	;	26/08/2016	;	11:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+1210	;	26/08/2016	;	11:15:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1211	;	26/08/2016	;	11:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1212	;	26/08/2016	;	11:45:00	;	Exit	;	Bus	;	Iwo Road
+1213	;	26/08/2016	;	12:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+1214	;	26/08/2016	;	12:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1215	;	26/08/2016	;	12:30:00	;	Exit	;	Bus	;	Iwo Road
+1216	;	26/08/2016	;	12:45:00	;	Exit	;	Bus	;	Iwo Road
+1217	;	26/08/2016	;	13:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+1218	;	26/08/2016	;	13:15:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+1219	;	26/08/2016	;	13:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1220	;	26/08/2016	;	13:45:00	;	Entry	;	Bus	;	Iwo Road
+1221	;	26/08/2016	;	14:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1222	;	26/08/2016	;	14:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+1223	;	26/08/2016	;	14:30:00	;	Entry	;	Bus	;	Iwo Road
+1224	;	26/08/2016	;	14:45:00	;	Exit	;	Bus	;	Iwo Road
+1225	;	26/08/2016	;	15:00:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1226	;	26/08/2016	;	15:15:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1227	;	26/08/2016	;	15:30:00	;	Exit	;	Bus 	;	Iwo Road
+1228	;	26/08/2016	;	15:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1229	;	26/08/2016	;	16:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1230	;	26/08/2016	;	16:15:00	;	Exit	;	Bus	;	Iwo Road
+1231	;	26/08/2016	;	16:30:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+1232	;	26/08/2016	;	16:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1233	;	26/08/2016	;	17:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1234	;	26/08/2016	;	17:15:00	;	Entry	;	Bus	;	Iwo Road
+1235	;	26/08/2016	;	17:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1236	;	26/08/2016	;	17:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+1237	;	26/08/2016	;	18:00:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+1238	;	26/08/2016	;	18:15:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1239	;	26/08/2016	;	18:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+1240	;	26/08/2016	;	18:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1241	;	26/08/2016	;	19:00:00	;	Entry	;	Bus	;	Iwo Road
+1242	;	26/08/2016	;	19:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+1243	;	26/08/2016	;	19:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1244	;	26/08/2016	;	19:45:00	;	Exit	;	Bus	;	Iwo Road
+1245	;	26/08/2016	;	20:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1246	;	26/08/2016	;	20:15:00	;	Entry	;	Bus	;	Iwo Road
+1247	;	26/08/2016	;	20:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1248	;	26/08/2016	;	20:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+1249	;	26/08/2016	;	21:00:00	;	Exit	;	Bus	;	Iwo Road
+1250	;	26/08/2016	;	21:15:00	;	Exit	;	Bus	;	Iwo Road
+1251	;	26/08/2016	;	21:30:00	;	Exit	;	Bus	;	Iwo Road
+1252	;	26/08/2016	;	21:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+1253	;	26/08/2016	;	22:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1254	;	26/08/2016	;	22:15:00	;	Exit	;	Bus	;	Iwo Road
+1255	;	26/08/2016	;	22:30:00	;	Exit	;	Bus	;	Iwo Road
+1256	;	26/08/2016	;	22:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+1257	;	26/08/2016	;	23:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+1258	;	26/08/2016	;	23:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1259	;	26/08/2016	;	23:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1260	;	26/08/2016	;	23:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+1261	;	27/08/2016	;	03:10:00	;	Exit	;	Passenger Car	;	Iwo Road
+1262	;	27/08/2016	;	03:25:10	;	Entry	;	Passenger Car	;	Iwo Road
+1263	;	27/08/2016	;	03:12:58	;	Entry 	;	Bus	;	Iwo Road
+1264	;	27/08/2016	;	04:10:15	;	Entry 	;	Passenger Car	;	Iwo Road
+1265	;	27/08/2016	;	05:09:36	;	Entry	;	Passenger car	;	Iwo Road
+1266	;	27/08/2016	;	06:00:00	;	Exit 	;	Bus	;	Iwo Road
+1267	;	27/08/2016	;	08:15:00	;	Entry 	;	Bus	;	Iwo Road
+1268	;	27/08/2016	;	09:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1269	;	27/08/2016	;	09:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+1270	;	27/08/2016	;	09:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1271	;	27/08/2016	;	09:45:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1272	;	27/08/2016	;	11:15:00	;	Entry	;	Bus	;	Iwo Road
+1273	;	27/08/2016	;	12:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1274	;	27/08/2016	;	14:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+1275	;	27/08/2016	;	14:30:00	;	Entry	;	Bus	;	Iwo Road
+1276	;	27/08/2016	;	15:34:12	;	Entry	;	Passenger Car	;	Iwo Road
+1277	;	27/08/2016	;	16:54:11	;	Entry	;	3-axle Trailer	;	Iwo Road
+1278	;	27/08/2016	;	16:57:13	;	Entry	;	2-axle Trailer	;	Iwo Road
+1279	;	27/08/2016	;	16:59:00	;	Entry	;	Bus	;	Iwo Road
+1280	;	27/08/2016	;	17:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+1281	;	27/08/2016	;	17:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+1282	;	27/08/2016	;	17:45:00	;	Entry	;	Bus	;	Iwo Road
+1283	;	27/08/2016	;	18:00:00	;	Exit	;	Bus	;	Iwo Road
+1284	;	27/08/2016	;	18:15:00	;	Exit 	;	Passenger Car	;	Iwo Road
+1285	;	27/08/2016	;	19:00:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1286	;	27/08/2016	;	19:15:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+1287	;	27/08/2016	;	19:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+1288	;	27/08/2016	;	19:45:00	;	Exit 	;	Passenger Car	;	Iwo Road
+1289	;	27/08/2016	;	19:48:12	;	Exit	;	Bus	;	Iwo Road
+1290	;	27/08/2016	;	19:55:45	;	Entry	;	Passenger Car	;	Iwo Road
+1291	;	27/08/2016	;	19:57:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1292	;	27/08/2016	;	20:10:15	;	Exit	;	3-axle Trailer	;	Iwo Road
+1293	;	27/08/2016	;	20:12:23	;	Exit	;	Bus	;	Iwo Road
+1294	;	27/08/2016	;	22:14:19	;	Entry	;	Bus	;	Iwo Road
+1295	;	27/08/2016	;	22:22:22	;	Entry	;	Passenger Car	;	Iwo Road
+1296	;	27/08/2016	;	22:30:00	;	Entry	;	Bus	;	Iwo Road
+1297	;	27/08/2016	;	23:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+1298	;	27/08/2016	;	23:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1299	;	27/08/2016	;	23:58:59	;	Exit	;	Bus	;	Iwo Road
+1300	;	27/08/2016	;	23:59:59	;	Exit	;	Bus	;	Iwo Road
+1301	;	28/08/2016	;	04:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1302	;	28/08/2016	;	05:20:12	;	Entry	;	Bus	;	Iwo Road
+1303	;	28/08/2016	;	06:00:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1304	;	28/08/2016	;	06:15:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1305	;	28/08/2016	;	06:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+1306	;	28/08/2016	;	06:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1307	;	28/08/2016	;	07:00:00	;	Exit	;	Bus	;	Iwo Road
+1308	;	28/08/2016	;	07:15:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+1309	;	28/08/2016	;	07:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1310	;	28/08/2016	;	07:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+1311	;	28/08/2016	;	08:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1312	;	28/08/2016	;	08:15:00	;	Entry	;	Bus	;	Iwo Road
+1313	;	28/08/2016	;	08:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1314	;	28/08/2016	;	08:45:00	;	Entry	;	Bus	;	Iwo Road
+1315	;	28/08/2016	;	09:00:00	;	Entry	;	Bus 	;	Iwo Road
+1316	;	28/08/2016	;	09:15:00	;	Exit	;	Bus	;	Iwo Road
+1317	;	28/08/2016	;	09:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+1318	;	28/08/2016	;	09:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1319	;	28/08/2016	;	10:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+1320	;	28/08/2016	;	10:30:00	;	Entry	;	Bus	;	Iwo Road
+1321	;	28/08/2016	;	10:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1322	;	28/08/2016	;	11:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1323	;	28/08/2016	;	11:15:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1324	;	28/08/2016	;	11:30:00	;	Exit	;	Bus	;	Iwo Road
+1325	;	28/08/2016	;	11:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1326	;	28/08/2016	;	12:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1327	;	28/08/2016	;	12:15:00	;	Exit	;	Bus	;	Iwo Road
+1328	;	28/08/2016	;	12:30:00	;	Exit	;	Bus	;	Iwo Road
+1329	;	28/08/2016	;	12:45:00	;	Entry	;	Bus	;	Iwo Road
+1330	;	28/08/2016	;	13:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1331	;	28/08/2016	;	13:15:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+1332	;	28/08/2016	;	13:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1333	;	28/08/2016	;	13:45:00	;	Entry	;	Bus	;	Iwo Road
+1334	;	28/08/2016	;	14:00:00	;	Entry	;	Bus	;	Iwo Road
+1335	;	28/08/2016	;	14:15:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+1336	;	28/08/2016	;	14:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1337	;	28/08/2016	;	14:45:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1338	;	28/08/2016	;	15:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1339	;	28/08/2016	;	15:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1340	;	28/08/2016	;	15:30:00	;	Exit	;	Bus	;	Iwo Road
+1341	;	28/08/2016	;	15:45:00	;	Entry	;	Bus	;	Iwo Road
+1342	;	28/08/2016	;	16:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1343	;	28/08/2016	;	16:15:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1344	;	28/08/2016	;	16:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1345	;	28/08/2016	;	16:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+1346	;	28/08/2016	;	17:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1347	;	28/08/2016	;	17:15:00	;	Entry	;	Bus	;	Iwo Road
+1348	;	28/08/2016	;	17:30:00	;	Exit	;	Bus	;	Iwo Road
+1349	;	28/08/2016	;	17:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+1350	;	28/08/2016	;	18:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1351	;	28/08/2016	;	18:15:00	;	Entry	;	Bus	;	Iwo Road
+1352	;	28/08/2016	;	18:30:00	;	Entry	;	Bus 	;	Iwo Road
+1353	;	28/08/2016	;	18:45:00	;	Exit	;	2-axle Trailer 	;	Iwo Road
+1354	;	28/08/2016	;	19:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+1355	;	28/08/2016	;	19:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+1356	;	28/08/2016	;	19:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1357	;	28/08/2016	;	19:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+1358	;	28/08/2016	;	20:00:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1359	;	28/08/2016	;	20:15:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1360	;	28/08/2016	;	20:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1361	;	28/08/2016	;	20:45:00	;	Exit	;	Bus	;	Iwo Road
+1362	;	28/08/2016	;	21:00:00	;	Exit	;	Bus	;	Iwo Road
+1363	;	28/08/2016	;	21:15:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1364	;	28/08/2016	;	21:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1365	;	28/08/2016	;	21:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+1366	;	28/08/2016	;	22:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1367	;	28/08/2016	;	22:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1368	;	28/08/2016	;	22:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1369	;	28/08/2016	;	22:45:00	;	Entry	;	Bus	;	Iwo Road
+1370	;	28/08/2016	;	23:00:00	;	Entry	;	Bus	;	Iwo Road
+1371	;	28/08/2016	;	23:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1372	;	28/08/2016	;	23:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+1373	;	28/08/2016	;	23:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1374	;	29/08/2016	;	00:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+1375	;	29/08/2016	;	01:15:12	;	Entry	;	Passenger Car	;	Iwo Road
+1376	;	29/08/2016	;	01:34:54	;	Entry 	;	Passenger Car	;	Iwo Road
+1377	;	29/08/2016	;	01:43:23	;	Entry 	;	Passenger Car	;	Iwo Road
+1378	;	29/08/2016	;	01:56:11	;	Entry	;	Bus 	;	Iwo Road
+1379	;	29/08/2016	;	01:57:21	;	Exit 	;	Passenger Car	;	Iwo Road
+1380	;	29/08/2016	;	04:30:00	;	Entry 	;	Bus	;	Iwo Road
+1381	;	29/08/2016	;	04:45:00	;	Entry	;	Bus	;	Iwo Road
+1382	;	29/08/2016	;	05:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1383	;	29/08/2016	;	05:15:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1384	;	29/08/2016	;	05:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+1385	;	29/08/2016	;	05:32:12	;	Entry	;	Passenger Car	;	Iwo Road
+1386	;	29/08/2016	;	05:39:32	;	Entry	;	Passenger Car	;	Iwo Road
+1387	;	29/08/2016	;	06:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1388	;	29/08/2016	;	06:15:00	;	Entry	;	2-axle Trailer 	;	Iwo Road
+1389	;	29/08/2016	;	06:30:00	;	Entry	;	Bus	;	Iwo Road
+1390	;	29/08/2016	;	06:45:00	;	Entry	;	Bus	;	Iwo Road
+1391	;	29/08/2016	;	07:00:00	;	Entry	;	Bus	;	Iwo Road
+1392	;	29/08/2016	;	07:15:00	;	Entry	;	Bus	;	Iwo Road
+1393	;	29/08/2016	;	07:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+1394	;	29/08/2016	;	07:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1395	;	29/08/2016	;	07:55:34	;	Entry	;	Bus	;	Iwo Road
+1396	;	29/08/2016	;	07:58:54	;	Exit	;	Bus	;	Iwo Road
+1397	;	29/08/2016	;	08:00:00	;	Exit 	;	2-axle Trailer	;	Iwo Road
+1398	;	29/08/2016	;	08:15:00	;	Exit	;	2-axle Trailer 	;	Iwo Road
+1399	;	29/08/2016	;	08:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1400	;	29/08/2016	;	08:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1401	;	29/08/2016	;	09:00:00	;	Exit 	;	Passenger Car	;	Iwo Road
+1402	;	29/08/2016	;	09:15:00	;	Exit	;	Bus	;	Iwo Road
+1403	;	29/08/2016	;	09:30:00	;	Entry	;	Bus	;	Iwo Road
+1404	;	29/08/2016	;	09:45:00	;	Exit	;	3-axle Trailer 	;	Iwo Road
+1405	;	29/08/2016	;	10:00:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+1406	;	29/08/2016	;	10:15:00	;	Exit	;	Passenger Car 	;	Iwo Road
+1407	;	29/08/2016	;	10:30:00	;	Entry	;	Bus	;	Iwo Road
+1408	;	29/08/2016	;	10:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1409	;	29/08/2016	;	11:00:00	;	Entry	;	Bus	;	Iwo Road
+1410	;	29/08/2016	;	12:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1411	;	29/08/2016	;	12:56:12	;	Exit	;	Passenger Car	;	Iwo Road
+1412	;	29/08/2016	;	12:58:58	;	Exit	;	Bus	;	Iwo Road
+1413	;	29/08/2016	;	13:30:00	;	Exit	;	Bus	;	Iwo Road
+1414	;	29/08/2016	;	13:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1415	;	29/08/2016	;	14:00:00	;	Entry	;	Bus	;	Iwo Road
+1416	;	29/08/2016	;	14:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1417	;	29/08/2016	;	14:30:00	;	Exit	;	Bus	;	Iwo Road
+1418	;	29/08/2016	;	14:44:00	;	Entry	;	2-axle Trailer 	;	Iwo Road
+1419	;	29/08/2016	;	15:45:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1420	;	29/08/2016	;	16:00:00	;	Exit	;	Passenger Car 	;	Iwo Road
+1421	;	29/08/2016	;	16:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1422	;	29/08/2016	;	16:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1423	;	29/08/2016	;	16:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+1424	;	29/08/2016	;	17:00:00	;	Exit	;	2-axle Trailer 	;	Iwo Road
+1425	;	29/08/2016	;	17:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1426	;	29/08/2016	;	17:30:00	;	Exit	;	Bus	;	Iwo Road
+1427	;	29/08/2016	;	17:45:00	;	Exit	;	Bus	;	Iwo Road
+1428	;	29/08/2016	;	18:15:13	;	Entry	;	Passenger Car	;	Iwo Road
+1429	;	29/08/2016	;	18:45:22	;	Entry	;	Passenger Car	;	Iwo Road
+1430	;	29/08/2016	;	18:55:21	;	Entry	;	2-axle Trailer	;	Iwo Road
+1431	;	29/08/2016	;	19:30:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1432	;	29/08/2016	;	19:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+1433	;	29/08/2016	;	20:00:00	;	Entry	;	Bus	;	Iwo Road
+1434	;	29/08/2016	;	20:15:00	;	Entry	;	Bus	;	Iwo Road
+1435	;	29/08/2016	;	20:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1436	;	29/08/2016	;	20:45:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1437	;	29/08/2016	;	21:00:00	;	Entry	;	Bus	;	Iwo Road
+1438	;	29/08/2016	;	21:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1439	;	29/08/2016	;	21:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1440	;	29/08/2016	;	21:45:00	;	Entry	;	Bus	;	Iwo Road
+1441	;	29/08/2016	;	22:00:00	;	Entry	;	Bus	;	Iwo Road
+1442	;	29/08/2016	;	22:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+1443	;	29/08/2016	;	22:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1444	;	29/08/2016	;	22:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+1445	;	29/08/2016	;	23:00:00	;	Exit	;	Bus	;	Iwo Road
+1446	;	29/08/2016	;	23:15:00	;	Exit	;	Bus	;	Iwo Road
+1447	;	29/08/2016	;	23:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1448	;	29/08/2016	;	23:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+1449	;	30/08/2016	;	02:07:45	;	Entry	;	Bus	;	Iwo Road
+1450	;	30/08/2016	;	03:06:56	;	Entry	;	Passenger Car	;	Iwo Road
+1451	;	30/08/2016	;	03:12:45	;	Entry	;	Passenger Car	;	Iwo Road
+1452	;	30/08/2016	;	04:10:45	;	Entry	;	Bus	;	Iwo Road
+1453	;	30/08/2016	;	05:45:00	;	Entry	;	Bus	;	Iwo Road
+1454	;	30/08/2016	;	06:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1455	;	30/08/2016	;	06:15:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1456	;	30/08/2016	;	06:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1457	;	30/08/2016	;	06:45:00	;	Entry	;	Bus	;	Iwo Road
+1458	;	30/08/2016	;	07:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1459	;	30/08/2016	;	07:19:44	;	Exit	;	Passenger Car	;	Iwo Road
+1460	;	30/08/2016	;	07:59:00	;	Exit	;	Bus	;	Iwo Road
+1461	;	30/08/2016	;	08:45:00	;	Entry	;	Bus	;	Iwo Road
+1462	;	30/08/2016	;	09:00:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1463	;	30/08/2016	;	09:15:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1464	;	30/08/2016	;	09:30:00	;	Exit	;	Bus 	;	Iwo Road
+1465	;	30/08/2016	;	09:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1466	;	30/08/2016	;	10:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+1467	;	30/08/2016	;	10:15:00	;	Exit	;	Bus	;	Iwo Road
+1468	;	30/08/2016	;	10:30:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1469	;	30/08/2016	;	10:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1470	;	30/08/2016	;	11:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1471	;	30/08/2016	;	12:15:00	;	Exit	;	Bus	;	Iwo Road
+1472	;	30/08/2016	;	12:30:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1473	;	30/08/2016	;	12:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1474	;	30/08/2016	;	13:00:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1475	;	30/08/2016	;	13:15:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1476	;	30/08/2016	;	13:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1477	;	30/08/2016	;	13:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1478	;	30/08/2016	;	14:00:00	;	Entry	;	Bus	;	Iwo Road
+1479	;	30/08/2016	;	14:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+1480	;	30/08/2016	;	14:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+1481	;	30/08/2016	;	14:45:00	;	Entry	;	Bus	;	Iwo Road
+1482	;	30/08/2016	;	14:56:43	;	Entry	;	2-axle Trailer	;	Iwo Road
+1483	;	30/08/2016	;	15:32:34	;	Entry	;	Bus	;	Iwo Road
+1484	;	30/08/2016	;	15:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1485	;	30/08/2016	;	16:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1486	;	30/08/2016	;	16:15:00	;	Entry	;	Bus	;	Iwo Road
+1487	;	30/08/2016	;	16:30:00	;	Exit	;	Bus	;	Iwo Road
+1488	;	30/08/2016	;	16:45:00	;	Exit	;	Bus	;	Iwo Road
+1489	;	30/08/2016	;	17:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1490	;	30/08/2016	;	19:02:21	;	Entry	;	Passenger Car	;	Iwo Road
+1491	;	30/08/2016	;	19:22:45	;	Exit	;	Bus	;	Iwo Road
+1492	;	30/08/2016	;	19:54:12	;	Exit	;	Bus	;	Iwo Road
+1493	;	30/08/2016	;	19:58:12	;	Exit	;	Passenger Car	;	Iwo Road
+1494	;	30/08/2016	;	19:59:00	;	Entry	;	Passenger Car	;	Iwo Road
+1495	;	30/08/2016	;	20:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1496	;	30/08/2016	;	20:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1497	;	30/08/2016	;	20:45:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1498	;	30/08/2016	;	21:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+1499	;	30/08/2016	;	21:15:00	;	Exit	;	Bus	;	Iwo Road
+1500	;	30/08/2016	;	21:30:00	;	Entry	;	Passenger Car 	;	Iwo Road
+1501	;	30/08/2016	;	21:45:00	;	Entry	;	Bus 	;	Iwo Road
+1502	;	30/08/2016	;	22:00:00	;	Entry	;	Bus	;	Iwo Road
+1503	;	30/08/2016	;	22:15:00	;	Entry	;	Passenger Car 	;	Iwo Road
+1504	;	31/08/2016	;	01:15:51	;	Exit	;	Bus 	;	Iwo Road
+1505	;	31/08/2016	;	02:32:45	;	Exit	;	Passenger Car	;	Iwo Road
+1506	;	31/08/2016	;	04:14:56	;	Entry	;	Passenger Car	;	Iwo Road
+1507	;	31/08/2016	;	04:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1508	;	31/08/2016	;	04:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1509	;	31/08/2016	;	04:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1510	;	31/08/2016	;	05:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1511	;	31/08/2016	;	05:15:00	;	Entry	;	Bus 	;	Iwo Road
+1512	;	31/08/2016	;	05:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1513	;	31/08/2016	;	05:45:00	;	Exit	;	Bus	;	Iwo Road
+1514	;	31/08/2016	;	06:00:00	;	Entry	;	Bus	;	Iwo Road
+1515	;	31/08/2016	;	06:15:00	;	Entry	;	Bus	;	Iwo Road
+1516	;	31/08/2016	;	06:17:32	;	Entry	;	Passenger Car	;	Iwo Road
+1517	;	31/08/2016	;	06:22:45	;	Entry	;	Bus	;	Iwo Road
+1518	;	31/08/2016	;	07:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+1519	;	31/08/2016	;	07:30:00	;	Entry	;	Bus	;	Iwo Road
+1520	;	31/08/2016	;	07:45:00	;	Entry	;	Bus	;	Iwo Road
+1521	;	31/08/2016	;	08:00:00	;	Exit	;	Passenger Car	;	Iwo Road
+1522	;	31/08/2016	;	08:15:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1523	;	31/08/2016	;	08:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1524	;	31/08/2016	;	08:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1525	;	31/08/2016	;	09:00:00	;	Entry	;	Bus	;	Iwo Road
+1526	;	31/08/2016	;	09:15:00	;	Entry	;	Passenger Car 	;	Iwo Road
+1527	;	31/08/2016	;	09:30:00	;	Entry	;	Bus 	;	Iwo Road
+1528	;	31/08/2016	;	09:45:00	;	Entry	;	Bus	;	Iwo Road
+1529	;	31/08/2016	;	10:00:00	;	Entry	;	Passenger Car 	;	Iwo Road
+1530	;	31/08/2016	;	10:10:10	;	Entry	;	Bus 	;	Iwo Road
+1531	;	31/08/2016	;	11:15:00	;	Entry	;	Passenger Car	;	Iwo Road
+1532	;	31/08/2016	;	11:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+1533	;	31/08/2016	;	11:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+1534	;	31/08/2016	;	12:00:00	;	Exit	;	Bus	;	Iwo Road
+1535	;	31/08/2016	;	12:14:52	;	Entry	;	Passenger Car	;	Iwo Road
+1536	;	31/08/2016	;	12:45:56	;	Exit	;	Passenger Car	;	Iwo Road
+1537	;	31/08/2016	;	13:30:00	;	Entry	;	Bus	;	Iwo Road
+1538	;	31/08/2016	;	13:45:00	;	Entry	;	Bus	;	Iwo Road
+1539	;	31/08/2016	;	14:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1540	;	31/08/2016	;	14:15:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1541	;	31/08/2016	;	14:30:00	;	Entry	;	3-axle Trailer	;	Iwo Road
+1542	;	31/08/2016	;	14:45:00	;	Entry	;	Passenger Car	;	Iwo Road
+1543	;	31/08/2016	;	15:00:00	;	Entry	;	Passenger Car	;	Iwo Road
+1544	;	31/08/2016	;	15:15:00	;	Entry	;	Bus	;	Iwo Road
+1545	;	31/08/2016	;	15:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+1546	;	31/08/2016	;	17:30:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1547	;	31/08/2016	;	17:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+1548	;	31/08/2016	;	18:00:00	;	Exit	;	Bus	;	Iwo Road
+1549	;	31/08/2016	;	18:15:00	;	Exit	;	Bus	;	Iwo Road
+1550	;	31/08/2016	;	18:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1551	;	31/08/2016	;	18:45:00	;	Exit	;	3-axle Trailer	;	Iwo Road
+1552	;	31/08/2016	;	19:00:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1553	;	31/08/2016	;	19:15:00	;	Exit	;	Bus	;	Iwo Road
+1554	;	31/08/2016	;	19:30:00	;	Exit	;	Bus	;	Iwo Road
+1555	;	31/08/2016	;	19:45:00	;	Exit	;	2-axle Trailer	;	Iwo Road
+1556	;	31/08/2016	;	20:15:00	;	Exit	;	Bus	;	Iwo Road
+1557	;	31/08/2016	;	20:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1558	;	31/08/2016	;	20:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+1559	;	31/08/2016	;	21:00:00	;	Entry	;	Bus	;	Iwo Road
+1560	;	31/08/2016	;	21:15:00	;	Exit	;	Passenger Car	;	Iwo Road
+1561	;	31/08/2016	;	21:30:00	;	Entry	;	Passenger Car	;	Iwo Road
+1562	;	31/08/2016	;	21:45:00	;	Entry	;	Bus	;	Iwo Road
+1563	;	31/08/2016	;	22:00:00	;	Entry	;	2-axle Trailer	;	Iwo Road
+1564	;	31/08/2016	;	22:15:00	;	Entry	;	Bus	;	Iwo Road
+1565	;	31/08/2016	;	22:30:00	;	Exit	;	Passenger Car	;	Iwo Road
+1566	;	31/08/2016	;	22:45:00	;	Exit	;	Passenger Car	;	Iwo Road
+1567	;	31/08/2016	;	23:00:00	;	Exit	;	Bus	;	Iwo Road

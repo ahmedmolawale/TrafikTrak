@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.trafik.trafiktrak.HomeScreen"
+    tools:showIn="@layout/app_bar_home_screen">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@color/abc_search_url_text_normal"
+        android:dividerPadding="@dimen/abc_config_prefDialogWidth"
+        android:orientation="vertical"
+
+        android:weightSum="1">
+
+
+        <LinearLayout
+            android:id="@+id/first"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="#ffffffff"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/welcome_on_home_screen"
+                android:textColor="#000000"
+                android:textSize="16sp" />
+
+        </LinearLayout>
+
+        <View
+            style="@style/Divider"
+            android:layout_marginBottom="0dp" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+
+            android:background="#ffffffff"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/get_live_data"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="?attr/selectableItemBackground"
+                android:drawableLeft="@drawable/ic_live_data"
+                android:drawableStart="@drawable/ic_live_data"
+                android:text="@string/live_data"
+                android:textAllCaps="false"
+                android:textColor="@color/blue"
+
+                android:textSize="17sp" />
+
+        </LinearLayout>
+
+        <View
+            style="@style/Divider"
+            android:layout_marginBottom="0dp" />
+        <LinearLayout
+            android:id="@+id/linearLayout7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:background="#ffffffff"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/phf_message"
+                android:textColor="#000000"
+                android:textSize="16sp" />
+        </LinearLayout>
+        <View
+            style="@style/Divider"
+            android:layout_marginBottom="0dp" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="#ffffffff"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/estimate_phf"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="20dp"
+                android:layout_marginRight="20dp"
+                android:background="?attr/selectableItemBackground"
+                android:drawableLeft="@drawable/ic_phf"
+                android:drawableStart="@drawable/ic_phf"
+                android:text="@string/view_phf"
+                android:textAllCaps="false"
+                android:textColor="@color/blue"
+                android:textSize="17sp" />
+
+
+        </LinearLayout>
+
+
+
+        <View
+            style="@style/Divider"
+            android:layout_marginBottom="0dp" />
+        <LinearLayout
+            android:id="@+id/linearLayout13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:background="#ffffffff"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/aadt_message"
+                android:textColor="#000000"
+                android:textSize="16sp" />
+        </LinearLayout>
+        <View
+            style="@style/Divider"
+            android:layout_marginBottom="0dp" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="#ffffffff"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/estimate_aadt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="?attr/selectableItemBackground"
+                android:drawableLeft="@drawable/ic_aadt"
+                android:drawableStart="@drawable/ic_aadt"
+                android:text="@string/view_aadt"
+                android:textAllCaps="false"
+                android:textColor="@color/blue"
+                android:textSize="17sp" />
+        </LinearLayout>
+        <View
+            style="@style/Divider"
+            android:layout_marginBottom="0dp" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:background="#ffffffff"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/esal_message"
+                android:textColor="#000000"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+
+        <View
+            style="@style/Divider"
+            android:layout_marginBottom="0dp" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="#ffffffff"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/estimate_esal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="?attr/selectableItemBackground"
+                android:drawableLeft="@drawable/ic_esal"
+                android:drawableStart="@drawable/ic_esal"
+                android:text="@string/view_esal"
+                android:textAllCaps="false"
+                android:textColor="@color/blue"
+                android:textSize="17sp" />
+        </LinearLayout>
+
+
+
+
+        <View
+            style="@style/Divider"
+            android:layout_marginBottom="0dp" />
+
+
+    </LinearLayout>
+</ScrollView>
+
